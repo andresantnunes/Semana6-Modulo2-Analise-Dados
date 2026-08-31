@@ -7,9 +7,9 @@ Descrição das Colunas (Dicionário de Dados)
 - Idade_Paciente: A idade do paciente no momento da consulta, variando de 16 a 75 anos.
 - Sexo: O sexo biológico do paciente (Feminino ou Masculino).
 - Tipo_Consulta: A categoria do agendamento, que pode ser:
-- Primeira Consulta: Avaliação inicial do paciente.
-- Retorno: Consulta de acompanhamento de curto prazo (geralmente sem custo).
-- Acompanhamento Mensal: Consultas subsequentes para avaliação contínua.
+  - Primeira Consulta: Avaliação inicial do paciente.
+  - Retorno: Consulta de acompanhamento de curto prazo (geralmente sem custo).
+  - Acompanhamento Mensal: Consultas subsequentes para avaliação contínua.
 - Motivo_Consulta: O objetivo principal do paciente ao buscar atendimento nutricional (ex: Emagrecimento, Hipertrofia, Reeducação Alimentar, Nutrição Esportiva, Doenças Crônicas, Gestação).
 - Nutricionista_Responsavel: O nome do(a) profissional da clínica responsável por conduzir o atendimento.
 - Status_Comparecimento: A situação atual do agendamento, sendo:
