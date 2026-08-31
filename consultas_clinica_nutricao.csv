@@ -1,0 +1,1001 @@
+﻿ID_Consulta,Data_Hora_Consulta,Nome_Paciente,Idade_Paciente,Sexo,Tipo_Consulta,Motivo_Consulta,Nutricionista_Responsavel,Status_Comparecimento,Peso_kg,Altura_m,IMC,Valor_Cobrado_R$
+1,2025-11-24 09:00,Sofia Pereira,30,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,76.64,1.69,26.84,150.0
+2,2025-04-22 11:00,Roberto Alves,61,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Faltou,87.94,1.89,24.59,250.0
+3,2025-03-23 14:30,Sofia Rodrigues,29,Masculino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,93.92,1.66,34.02,250.0
+4,2025-05-16 08:45,Ricardo Souza,75,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Faltou,94.27,1.78,29.66,250.0
+5,2025-07-05 17:15,Eduardo Santos,58,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Faltou,90.29,1.55,37.8,0.0
+6,2025-11-22 13:15,Ximena Ribeiro,29,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,76.71,1.79,24.05,150.0
+7,2025-05-06 10:45,Yuri Lima,75,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,90.25,1.87,25.81,150.0
+8,2025-07-25 12:00,Olivia Vieira,72,Masculino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,82.14,1.9,22.8,250.0
+9,2025-03-15 12:15,Quintino Dias,51,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,60.97,1.68,21.61,150.0
+10,2025-03-12 16:45,Fernanda Santos,71,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Faltou,79.82,1.81,24.47,250.0
+11,2025-07-17 14:45,Marcos Lima,51,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Cancelada,87.54,1.9,24.3,150.0
+12,2026-01-29 18:30,Helena Gomes,43,Feminino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,102.92,1.84,30.31,0.0
+13,2025-02-24 18:30,Larissa Soares,54,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,96.12,1.93,25.83,250.0
+14,2026-04-16 08:30,Paulo Silva,23,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,93.14,1.9,25.93,0.0
+15,2025-02-13 15:00,Ricardo Rodrigues,24,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,74.81,1.89,20.89,150.0
+16,2025-04-19 16:15,Ursula Martins,58,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,53.2,1.61,20.48,0.0
+17,2025-01-11 17:15,Beatriz Pereira,16,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,51.57,1.53,22.02,150.0
+18,2025-06-19 09:15,Sofia Barbosa,47,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,88.26,1.85,25.7,150.0
+19,2025-04-08 09:00,Maria Ribeiro,43,Masculino,Retorno,Gestação,Dra. Laura Mendes,Cancelada,82.31,1.79,25.57,0.0
+20,2025-02-01 14:30,Gabriel Pereira,28,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,73.13,1.58,29.2,150.0
+21,2026-03-24 09:45,Roberto Souza,19,Feminino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,67.48,1.72,22.85,250.0
+22,2025-07-25 08:15,Yuri Silva,40,Masculino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,99.77,1.93,26.76,0.0
+23,2025-10-12 18:45,Juliana Alves,34,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Cancelada,52.51,1.64,19.5,250.0
+24,2025-09-02 16:15,Daniela Soares,21,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Cancelada,70.19,1.89,19.69,250.0
+25,2026-04-28 17:15,Beatriz Mendes,18,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,85.81,1.59,33.86,0.0
+26,2025-05-03 12:45,Igor Barbosa,57,Masculino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,99.92,1.71,34.32,0.0
+27,2025-02-21 09:15,Luiz Lima,24,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,89.18,1.57,36.13,250.0
+28,2025-12-27 12:00,Roberto Gomes,75,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,57.77,1.83,17.17,250.0
+29,2025-05-25 17:15,Vitoria Alves,59,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Faltou,81.71,1.52,35.24,150.0
+30,2026-03-01 12:00,Ana Costa,65,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,85.28,1.7,29.55,150.0
+31,2025-10-15 08:00,Eduardo Rocha,73,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,98.64,1.75,32.26,150.0
+32,2025-01-22 12:30,Carlos Ribeiro,29,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Faltou,123.11,1.75,40.11,150.0
+33,2026-05-14 17:15,Quintino Ferreira,67,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Cancelada,118.03,1.92,32.15,0.0
+34,2025-07-30 18:15,Sofia Ferreira,66,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,125.51,1.59,49.66,0.0
+35,2025-06-29 12:15,Pedro Silva,58,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Faltou,88.67,1.53,37.82,0.0
+36,2025-06-29 18:45,Ricardo Costa,17,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,75.21,1.55,31.35,0.0
+37,2026-01-09 13:45,Camila Soares,23,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,60.06,1.82,18.15,150.0
+38,2026-04-19 16:15,Ximena Carvalho,20,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Cancelada,75.36,1.91,20.76,150.0
+39,2025-12-08 14:30,Zelia Rocha,34,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,58.7,1.84,17.4,250.0
+40,2025-10-19 12:45,Roberto Silva,35,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Realizada,83.78,1.7,29.03,250.0
+41,2025-09-19 15:15,Fernanda Gomes,48,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,65.16,1.86,18.77,250.0
+42,2025-01-24 11:45,Letícia Oliveira,45,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Cancelada,74.72,1.81,22.72,150.0
+43,2025-05-05 10:00,Gabriel Carvalho,30,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,95.87,1.75,31.28,150.0
+44,2025-03-04 15:15,Antônio Barbosa,49,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Faltou,72.3,1.91,19.86,0.0
+45,2025-03-23 15:45,Rafael Pereira,69,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,85.68,1.7,29.72,150.0
+46,2025-05-01 12:30,Victor Fernandes,21,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Cancelada,67.49,1.57,27.42,250.0
+47,2025-08-01 14:30,Ricardo Almeida,42,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Faltou,84.78,1.76,27.28,250.0
+48,2026-03-15 17:45,Francisco Silva,38,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,71.79,1.6,28.09,0.0
+49,2025-01-15 14:30,Zelia Dias,26,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,83.15,1.77,26.65,250.0
+50,2025-02-12 18:45,Igor Almeida,27,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,66.88,1.7,23.02,0.0
+51,2026-03-27 14:30,João Lima,69,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,78.77,1.6,30.74,0.0
+52,2026-05-06 18:00,Bruno Pereira,28,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,64.0,1.71,21.81,150.0
+53,2026-05-01 11:45,Rafael Ribeiro,26,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,65.6,1.51,28.71,250.0
+54,2025-12-13 14:45,Nicolas Oliveira,53,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Faltou,90.28,1.81,27.62,250.0
+55,2026-02-12 17:00,Wagner Fernandes,43,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,91.12,1.88,25.72,250.0
+56,2025-02-24 14:30,Larissa Almeida,61,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,78.84,1.86,22.7,0.0
+57,2025-09-05 15:45,Beatriz Lima,36,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,78.49,1.84,23.24,250.0
+58,2025-12-09 14:30,Bruno Lopes,70,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,67.02,1.86,19.39,250.0
+59,2026-03-27 17:30,Roberto Silva,49,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,68.41,1.75,22.34,250.0
+60,2025-09-01 18:45,José Silva,21,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,68.45,1.8,21.16,250.0
+61,2025-10-11 16:30,Maria Dias,51,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,61.53,1.64,22.93,0.0
+62,2026-01-05 11:30,Helena Dias,50,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,94.18,1.83,28.24,250.0
+63,2025-09-26 17:30,Gabriel Alves,34,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,64.43,1.82,19.48,0.0
+64,2025-01-24 08:30,Igor Nunes,71,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,93.74,1.72,31.86,250.0
+65,2026-05-10 08:30,Francisco Souza,68,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,52.68,1.78,16.57,0.0
+66,2025-03-18 17:30,Fernanda Pereira,23,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,72.53,1.74,24.09,150.0
+67,2025-08-15 12:45,Ursula Vieira,55,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Faltou,60.55,1.59,23.85,150.0
+68,2025-12-05 09:15,Quintino Ferreira,51,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,100.85,1.81,30.77,250.0
+69,2025-01-17 11:30,Tiago Rocha,71,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,81.25,1.85,23.63,250.0
+70,2025-12-05 11:45,Helena Fernandes,30,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,70.77,1.57,28.54,0.0
+71,2026-01-19 17:30,José Souza,45,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,71.89,1.74,23.66,150.0
+72,2025-11-03 08:45,Victor Mendes,32,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Faltou,69.43,1.8,21.37,250.0
+73,2025-01-21 10:45,Marcos Nunes,44,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Cancelada,98.45,1.87,28.26,250.0
+74,2025-08-29 13:45,Vitoria Costa,58,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,83.13,1.72,28.0,250.0
+75,2025-07-25 16:00,Antônio Oliveira,36,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Faltou,129.35,1.73,43.14,0.0
+76,2025-12-03 16:45,João Santos,28,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Faltou,63.35,1.52,27.3,150.0
+77,2025-03-09 12:45,Paulo Souza,17,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,74.28,1.51,32.74,150.0
+78,2025-04-26 09:45,Helena Nunes,69,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,70.77,1.82,21.43,0.0
+79,2025-09-05 15:15,Antônio Fernandes,25,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,88.63,1.53,37.79,250.0
+80,2026-03-14 14:30,Luiz Lima,68,Feminino,Retorno,Gestação,Dra. Camila Assis,Faltou,99.95,1.76,32.11,0.0
+81,2025-09-08 10:45,Ricardo Lopes,38,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,93.48,1.92,25.36,150.0
+82,2025-12-24 11:45,Pedro Carvalho,18,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,89.62,1.94,23.7,150.0
+83,2025-11-30 10:45,Carlos Rodrigues,48,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,50.77,1.91,13.92,250.0
+84,2025-03-15 14:15,Eduardo Lopes,66,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Cancelada,66.43,1.54,28.15,0.0
+85,2025-12-12 16:45,Victor Nunes,61,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,125.65,1.78,39.48,150.0
+86,2025-04-27 09:45,Gabriel Nunes,61,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,87.87,1.52,38.0,0.0
+87,2025-05-31 13:30,Maria Rodrigues,31,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,80.47,1.58,32.29,150.0
+88,2025-07-15 17:15,Paulo Vieira,25,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,50.47,1.61,19.35,0.0
+89,2026-02-16 15:30,Ricardo Ferreira,20,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Cancelada,84.52,1.93,22.62,0.0
+90,2025-08-22 12:15,Yuri Lopes,22,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,84.96,1.63,31.86,0.0
+91,2025-01-12 18:45,Sofia Silva,52,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Faltou,64.31,1.91,17.69,150.0
+92,2026-02-14 11:30,Pedro Nunes,28,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Cancelada,81.37,1.54,34.15,150.0
+93,2025-01-21 12:45,Carlos Vieira,39,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Cancelada,60.04,1.69,21.1,250.0
+94,2026-02-07 16:30,Marcos Soares,74,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Faltou,93.52,1.63,35.08,250.0
+95,2026-02-16 09:45,Eduardo Rodrigues,64,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Faltou,68.29,1.86,19.7,150.0
+96,2026-02-09 14:00,Rafael Fernandes,23,Masculino,Retorno,Gestação,Dra. Camila Assis,Realizada,81.93,1.67,29.32,0.0
+97,2025-07-10 09:15,Francisco Silva,55,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Cancelada,91.83,1.87,26.24,150.0
+98,2025-06-04 18:45,Helena Rodrigues,18,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,76.88,1.61,29.82,0.0
+99,2025-07-18 15:30,Ricardo Carvalho,53,Feminino,Retorno,Gestação,Dra. Laura Mendes,Faltou,70.41,1.72,23.79,0.0
+100,2026-05-03 12:00,Ximena Alves,44,Masculino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Cancelada,95.08,1.67,34.29,250.0
+101,2025-11-27 13:00,Zelia Lima,28,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Cancelada,128.41,1.79,40.18,0.0
+102,2025-01-26 13:15,Igor Vieira,29,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Faltou,71.5,1.89,19.99,150.0
+103,2025-03-17 17:00,Sofia Rodrigues,24,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,118.45,1.51,52.18,250.0
+104,2025-05-02 17:30,Bruno Ferreira,32,Feminino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,53.18,1.55,22.1,250.0
+105,2025-08-18 13:00,José Soares,30,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,51.56,1.79,16.1,150.0
+106,2025-09-03 14:45,Gabriel Lopes,61,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,81.94,1.57,33.38,250.0
+107,2025-11-16 18:30,Yuri Mendes,49,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,55.72,1.86,16.16,0.0
+108,2025-12-02 18:15,Maria Almeida,72,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,54.75,1.69,19.23,0.0
+109,2025-08-07 13:30,Ximena Rodrigues,59,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,115.95,1.69,40.39,250.0
+110,2025-07-10 10:00,Beatriz Fernandes,51,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Realizada,126.76,1.89,35.37,150.0
+111,2025-08-05 08:30,Camila Gomes,38,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,61.21,1.8,18.99,150.0
+112,2025-02-25 13:30,Helena Lima,52,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,91.47,1.92,24.86,0.0
+113,2025-05-17 08:15,Sofia Rocha,64,Masculino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,78.32,1.89,21.89,0.0
+114,2025-07-25 09:15,Larissa Silva,21,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,65.58,1.57,26.58,0.0
+115,2025-06-16 17:00,Daniela Rodrigues,26,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,101.71,1.8,31.47,150.0
+116,2025-08-15 14:30,Olivia Soares,23,Masculino,Retorno,Emagrecimento,Dra. Camila Assis,Cancelada,101.76,1.81,31.22,0.0
+117,2025-12-08 12:00,Pedro Martins,54,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,86.75,1.85,25.47,250.0
+118,2025-05-29 13:00,Ana Lopes,63,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,77.51,1.82,23.49,250.0
+119,2026-03-03 18:30,Eduardo Martins,71,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,106.67,1.89,29.93,0.0
+120,2025-10-21 14:45,Tiago Souza,41,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Faltou,72.66,1.81,22.17,0.0
+121,2025-08-12 09:15,Maria Vieira,41,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,58.41,1.65,21.46,0.0
+122,2025-09-19 18:00,Marcos Soares,28,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,62.8,1.55,26.27,0.0
+123,2025-03-30 17:15,Eduardo Ferreira,65,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Cancelada,78.22,1.92,21.31,0.0
+124,2025-11-22 17:30,Larissa Costa,25,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,63.73,1.64,23.8,250.0
+125,2025-01-29 13:00,Ursula Almeida,44,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,98.87,1.79,30.85,250.0
+126,2025-02-16 17:45,Antônio Vieira,51,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,75.07,1.77,23.9,0.0
+127,2026-05-06 08:45,Gabriel Costa,61,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,71.89,1.61,27.68,150.0
+128,2025-08-13 16:15,Ximena Ribeiro,74,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Cancelada,89.46,1.77,28.59,0.0
+129,2025-11-28 13:00,Vitoria Souza,51,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,83.18,1.54,35.23,0.0
+130,2026-04-15 13:30,Zelia Rodrigues,54,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Cancelada,90.66,1.86,26.31,0.0
+131,2025-12-10 18:00,Maria Soares,39,Feminino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,88.31,1.65,32.29,0.0
+132,2025-04-09 11:15,Juliana Oliveira,34,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Cancelada,88.32,1.65,32.38,150.0
+133,2025-03-09 17:45,Juliana Ferreira,27,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,85.98,1.66,31.05,150.0
+134,2026-05-12 15:30,José Pereira,50,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,78.52,1.81,24.09,0.0
+135,2025-08-14 15:30,Yuri Soares,49,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Faltou,82.44,1.61,31.71,250.0
+136,2026-03-24 13:00,Marcos Souza,34,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,71.87,1.57,29.3,250.0
+137,2026-04-30 11:45,Wagner Silva,42,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,54.08,1.67,19.3,0.0
+138,2025-04-25 08:30,Gabriel Rocha,57,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,76.54,1.91,20.92,250.0
+139,2026-03-02 10:45,José Mendes,16,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Faltou,97.01,1.57,39.49,250.0
+140,2025-11-08 16:45,Helena Gomes,31,Masculino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,109.25,1.79,34.19,250.0
+141,2025-02-02 09:45,Camila Fernandes,17,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,72.35,1.5,32.12,150.0
+142,2025-10-20 14:15,Fernanda Soares,39,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,52.18,1.89,14.56,150.0
+143,2025-07-18 13:30,Bruno Ribeiro,66,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Faltou,86.48,1.76,27.86,0.0
+144,2025-03-10 08:30,Ricardo Costa,68,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,56.74,1.58,22.67,150.0
+145,2026-01-02 15:00,Tiago Alves,18,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,90.77,1.68,32.19,250.0
+146,2025-08-31 12:00,Nicolas Gomes,38,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,71.85,1.86,20.77,150.0
+147,2025-07-24 15:45,Vitoria Ferreira,47,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Faltou,71.22,1.54,30.14,0.0
+148,2025-08-09 17:15,Ricardo Gomes,36,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,85.88,1.7,29.69,250.0
+149,2025-03-27 15:30,José Santos,62,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Cancelada,97.4,1.94,25.85,150.0
+150,2025-02-08 18:45,Ximena Soares,67,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,68.26,1.56,28.16,250.0
+151,2025-11-27 13:30,Yuri Vieira,18,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,53.84,1.7,18.64,150.0
+152,2025-03-12 16:30,Zelia Costa,57,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Cancelada,103.48,1.58,41.26,250.0
+153,2026-04-13 16:00,Rafael Lima,61,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Cancelada,74.56,1.91,20.39,250.0
+154,2025-03-04 10:00,José Ferreira,73,Masculino,Primeira Consulta,Gestação,Dra. Camila Assis,Cancelada,53.25,1.66,19.41,250.0
+155,2025-10-05 12:30,Lucas Rocha,61,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,89.6,1.94,23.73,0.0
+156,2025-05-02 15:00,Ximena Fernandes,52,Masculino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,53.29,1.9,14.79,0.0
+157,2025-07-23 15:45,João Vieira,20,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,75.87,1.71,25.96,0.0
+158,2025-03-07 16:15,Igor Carvalho,48,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,66.13,1.57,26.69,250.0
+159,2025-12-30 11:30,Marcos Gomes,70,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,81.5,1.78,25.69,0.0
+160,2025-02-17 16:15,Beatriz Vieira,25,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Faltou,52.06,1.92,14.18,150.0
+161,2026-03-19 08:00,Carlos Nunes,65,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,77.43,1.79,24.23,150.0
+162,2025-11-18 16:30,Ursula Lopes,31,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Cancelada,71.98,1.53,30.87,0.0
+163,2025-09-05 15:15,Vitoria Mendes,25,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,68.53,1.56,28.2,150.0
+164,2025-10-15 09:30,Quintino Almeida,23,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,93.09,1.52,40.14,0.0
+165,2026-03-19 17:45,Quintino Ferreira,68,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,74.91,1.84,22.05,150.0
+166,2025-09-21 15:45,Ursula Lopes,17,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,67.64,1.6,26.53,0.0
+167,2025-01-26 12:45,Camila Nunes,59,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,56.7,1.55,23.65,0.0
+168,2025-05-16 13:45,Ximena Santos,41,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,53.68,1.75,17.55,150.0
+169,2025-09-16 15:30,Letícia Barbosa,55,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,93.65,1.86,27.14,250.0
+170,2026-04-26 13:15,Nicolas Mendes,48,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,93.32,1.56,38.26,150.0
+171,2025-08-31 16:45,Juliana Mendes,73,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,80.83,1.68,28.75,0.0
+172,2026-03-08 12:30,Luiz Soares,50,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,68.42,1.87,19.63,150.0
+173,2025-12-11 09:45,Beatriz Gomes,66,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Cancelada,88.81,1.85,25.88,150.0
+174,2025-10-23 11:00,Beatriz Lopes,26,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,85.03,1.76,27.52,250.0
+175,2025-04-08 08:45,Victor Carvalho,25,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,92.22,1.85,26.98,150.0
+176,2026-03-23 08:15,Marcos Alves,51,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,72.98,1.93,19.58,150.0
+177,2025-09-30 13:30,Rafael Mendes,46,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,99.11,1.92,26.78,250.0
+178,2026-01-30 12:15,Paulo Costa,46,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,83.83,1.55,34.68,150.0
+179,2025-07-14 14:30,Juliana Gomes,18,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,116.1,1.8,36.03,150.0
+180,2025-04-20 11:30,Roberto Rocha,33,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,95.26,1.52,41.08,250.0
+181,2025-04-26 18:15,Daniela Souza,42,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Cancelada,50.26,1.85,14.74,150.0
+182,2025-10-09 10:45,Francisco Lopes,57,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Cancelada,88.44,1.53,37.95,0.0
+183,2025-11-30 17:15,Ricardo Dias,62,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,69.85,1.95,18.39,250.0
+184,2025-09-11 10:30,Carlos Silva,35,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,74.7,1.74,24.54,0.0
+185,2026-04-26 10:45,Sofia Alves,67,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Cancelada,66.52,1.62,25.48,0.0
+186,2026-01-13 13:30,Amanda Barbosa,64,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Faltou,66.4,1.69,23.18,250.0
+187,2025-07-25 18:00,Mariana Rodrigues,46,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,116.46,1.61,45.15,250.0
+188,2026-05-04 13:30,Beatriz Dias,52,Feminino,Retorno,Gestação,Dra. Camila Assis,Cancelada,83.39,1.61,32.32,0.0
+189,2025-08-27 12:15,Zelia Barbosa,48,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,87.05,1.78,27.58,150.0
+190,2025-03-10 15:15,Antônio Dias,54,Masculino,Retorno,Gestação,Dr. Felipe Barros,Faltou,83.2,1.74,27.42,0.0
+191,2025-04-22 11:00,Marcos Almeida,49,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,95.14,1.87,27.12,250.0
+192,2025-04-14 17:15,Lucas Costa,70,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Cancelada,54.55,1.76,17.56,250.0
+193,2025-09-19 15:00,Antônio Rodrigues,48,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,90.35,1.71,30.97,0.0
+194,2026-01-06 08:45,Rafael Silva,63,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,78.51,1.66,28.66,150.0
+195,2025-01-31 09:45,Carlos Gomes,42,Feminino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,69.12,1.95,18.24,250.0
+196,2026-03-22 14:45,Fernanda Barbosa,58,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,69.65,1.95,18.38,150.0
+197,2025-03-07 11:00,Bruno Gomes,45,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,57.76,1.71,19.81,150.0
+198,2025-04-07 09:00,João Mendes,65,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,75.63,1.77,24.21,250.0
+199,2025-12-11 08:15,Carlos Martins,44,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,70.12,1.73,23.52,150.0
+200,2026-02-22 17:30,Amanda Mendes,65,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,70.68,1.73,23.49,250.0
+201,2025-05-21 08:15,Larissa Barbosa,43,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Faltou,84.82,1.74,28.14,250.0
+202,2025-07-29 10:30,Yuri Ferreira,64,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,88.2,1.82,26.67,250.0
+203,2026-04-14 08:45,João Fernandes,49,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,62.77,1.65,23.09,0.0
+204,2025-08-19 13:00,Ricardo Dias,69,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,51.98,1.77,16.55,250.0
+205,2025-02-07 11:15,Francisco Alves,71,Masculino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,81.45,1.93,21.8,0.0
+206,2026-01-22 15:15,Camila Rocha,29,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Faltou,73.31,1.63,27.68,250.0
+207,2025-11-29 13:30,Rafael Ribeiro,48,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Faltou,125.29,1.88,35.53,0.0
+208,2025-07-09 13:45,Carlos Vieira,71,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,80.44,1.75,26.3,150.0
+209,2026-01-04 14:30,Juliana Alves,37,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,97.17,1.75,31.81,0.0
+210,2025-06-22 12:45,Paulo Almeida,26,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,78.97,1.91,21.59,250.0
+211,2025-11-25 08:00,Eduardo Barbosa,19,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,60.32,1.82,18.25,0.0
+212,2025-09-16 15:30,Daniela Mendes,56,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,70.57,1.74,23.32,150.0
+213,2025-01-09 16:30,Ricardo Gomes,17,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,85.56,1.57,34.84,250.0
+214,2025-09-27 12:30,Sofia Martins,21,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,84.2,1.6,32.82,0.0
+215,2026-03-11 09:00,Fernanda Martins,40,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Cancelada,58.57,1.5,25.88,150.0
+216,2025-09-13 14:30,Amanda Souza,73,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,62.6,1.52,27.06,250.0
+217,2026-04-19 12:00,Mariana Costa,17,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,79.74,1.63,29.84,150.0
+218,2025-10-18 14:30,Yuri Dias,24,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,61.61,1.54,25.84,150.0
+219,2025-02-08 13:45,Victor Silva,56,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,68.77,1.75,22.49,0.0
+220,2025-04-06 18:45,Fernanda Mendes,34,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,114.14,1.57,46.34,150.0
+221,2025-11-21 10:45,Victor Ribeiro,22,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,55.11,1.84,16.23,250.0
+222,2025-02-14 10:45,José Fernandes,51,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,107.83,1.75,35.23,250.0
+223,2026-02-06 13:45,Ana Gomes,42,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,84.27,1.73,28.01,250.0
+224,2025-03-28 10:30,Ursula Lima,47,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,76.95,1.69,26.96,250.0
+225,2025-02-09 13:30,Quintino Dias,56,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,65.23,1.55,27.22,150.0
+226,2026-05-01 14:30,Letícia Martins,67,Masculino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Faltou,82.55,1.87,23.59,0.0
+227,2025-11-01 10:30,Victor Mendes,60,Feminino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,64.57,1.94,17.23,0.0
+228,2025-12-22 18:45,Amanda Pereira,36,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,59.99,1.92,16.28,0.0
+229,2025-10-07 10:00,Antônio Rocha,29,Masculino,Retorno,Gestação,Dra. Laura Mendes,Faltou,89.75,1.88,25.35,0.0
+230,2025-12-11 15:15,Larissa Gomes,31,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Faltou,75.72,1.67,27.16,150.0
+231,2025-11-03 15:45,Ricardo Soares,75,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Cancelada,104.53,1.9,28.87,150.0
+232,2025-11-23 09:00,Quintino Barbosa,58,Masculino,Primeira Consulta,Gestação,Dra. Laura Mendes,Realizada,83.87,1.94,22.23,250.0
+233,2025-07-24 13:45,Gabriel Silva,22,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,73.15,1.67,26.28,250.0
+234,2025-12-14 17:15,Wagner Silva,46,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,86.51,1.87,24.63,0.0
+235,2025-06-28 12:30,Antônio Alves,49,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,72.62,1.82,21.81,0.0
+236,2025-02-04 12:00,Helena Silva,70,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Cancelada,84.59,1.61,32.65,150.0
+237,2025-03-23 13:45,Antônio Pereira,67,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Cancelada,73.85,1.8,22.9,150.0
+238,2026-01-13 17:15,José Vieira,43,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,85.19,1.63,32.25,250.0
+239,2026-02-12 09:00,Ricardo Ferreira,39,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,74.47,1.8,22.94,250.0
+240,2026-05-10 18:30,Camila Martins,55,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,108.95,1.88,30.81,150.0
+241,2026-02-21 18:30,Letícia Vieira,21,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,95.53,1.55,39.63,0.0
+242,2025-03-14 16:45,João Mendes,24,Masculino,Retorno,Hipertrofia,Dr. Felipe Barros,Cancelada,92.17,1.74,30.38,0.0
+243,2026-04-22 10:15,Paulo Gomes,24,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Faltou,50.48,1.66,18.28,0.0
+244,2025-03-11 11:45,Roberto Soares,57,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,72.19,1.82,21.81,0.0
+245,2025-03-27 09:00,Pedro Gomes,18,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,78.28,1.85,22.84,250.0
+246,2026-01-31 15:00,Amanda Souza,33,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Realizada,98.38,1.6,38.51,150.0
+247,2026-01-12 18:15,Ursula Santos,44,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Faltou,117.66,1.95,31.03,0.0
+248,2025-05-02 11:30,Letícia Nunes,43,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Faltou,62.08,1.59,24.46,150.0
+249,2025-06-29 16:30,Camila Fernandes,26,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,92.9,1.62,35.39,150.0
+250,2026-04-06 18:00,Igor Carvalho,74,Feminino,Retorno,Gestação,Dr. Rodrigo Castro,Cancelada,62.48,1.89,17.5,0.0
+251,2025-12-31 13:15,Zelia Lopes,25,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,89.73,1.53,38.13,150.0
+252,2026-01-29 09:45,Luiz Dias,33,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,88.71,1.5,39.37,0.0
+253,2026-01-11 09:45,Larissa Barbosa,60,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,91.24,1.94,24.35,250.0
+254,2025-09-11 12:30,Tiago Costa,51,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Cancelada,52.3,1.84,15.4,150.0
+255,2025-11-17 15:00,Helena Ferreira,44,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,94.11,1.91,25.82,250.0
+256,2025-06-04 10:30,Fernanda Nunes,39,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,65.28,1.68,23.17,250.0
+257,2025-12-25 11:45,Fernanda Rocha,22,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,75.97,1.77,24.33,250.0
+258,2025-08-16 08:00,Vitoria Souza,71,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,63.13,1.6,24.57,150.0
+259,2026-02-17 09:00,Victor Ribeiro,72,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,57.14,1.95,15.08,250.0
+260,2025-09-29 17:00,Letícia Nunes,26,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Cancelada,95.99,1.84,28.46,0.0
+261,2025-11-12 18:45,Olivia Oliveira,73,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,92.3,1.93,24.69,250.0
+262,2025-03-13 11:30,Fernanda Pereira,51,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,103.02,1.73,34.3,150.0
+263,2026-01-18 14:30,Daniela Pereira,47,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Cancelada,78.49,1.77,25.13,250.0
+264,2026-05-16 08:30,Victor Rodrigues,40,Masculino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,99.37,1.71,33.9,0.0
+265,2025-02-07 08:00,Ana Lima,29,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Cancelada,88.36,1.82,26.65,250.0
+266,2025-08-05 14:00,Larissa Fernandes,50,Feminino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,86.18,1.73,28.79,0.0
+267,2026-02-18 10:30,Zelia Vieira,56,Feminino,Retorno,Gestação,Dr. Felipe Barros,Cancelada,61.93,1.93,16.64,0.0
+268,2025-05-06 09:45,Helena Almeida,55,Feminino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,56.86,1.51,25.08,0.0
+269,2025-01-06 10:45,Wagner Soares,49,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,63.44,1.85,18.51,250.0
+270,2026-03-30 09:00,Vitoria Carvalho,33,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,68.01,1.7,23.4,0.0
+271,2025-09-13 17:15,Ximena Ferreira,32,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,50.13,1.83,14.91,150.0
+272,2026-03-16 08:15,Carlos Lopes,39,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,84.99,1.86,24.53,250.0
+273,2025-12-02 14:15,Victor Pereira,42,Masculino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,124.61,1.73,41.83,0.0
+274,2025-04-02 11:00,Zelia Oliveira,72,Masculino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,50.4,1.75,16.48,0.0
+275,2025-04-13 12:30,Letícia Pereira,45,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,88.02,1.91,24.25,150.0
+276,2025-05-06 10:00,João Silva,30,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,82.87,1.5,36.8,150.0
+277,2026-03-11 12:00,Olivia Soares,31,Masculino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Cancelada,77.41,1.63,29.28,0.0
+278,2025-04-29 16:45,Ximena Almeida,63,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Cancelada,79.12,1.87,22.65,150.0
+279,2025-10-18 08:45,Igor Pereira,34,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,61.68,1.7,21.25,0.0
+280,2026-04-29 11:15,Beatriz Souza,25,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Realizada,76.8,1.68,27.11,250.0
+281,2026-05-09 11:45,Ursula Almeida,32,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,81.12,1.82,24.57,250.0
+282,2025-04-21 13:15,Fernanda Rocha,31,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Cancelada,91.0,1.63,34.06,0.0
+283,2025-03-31 08:45,José Fernandes,63,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Faltou,56.07,1.86,16.26,250.0
+284,2025-02-01 11:15,Nicolas Martins,39,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Faltou,99.86,1.53,42.45,150.0
+285,2025-04-12 18:45,Igor Oliveira,73,Masculino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,106.56,1.58,42.93,250.0
+286,2026-02-25 14:45,Bruno Martins,59,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,72.3,1.62,27.42,250.0
+287,2025-03-18 08:15,Tiago Lopes,42,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,85.97,1.56,35.25,250.0
+288,2026-03-29 16:15,Larissa Fernandes,66,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,74.23,1.75,24.38,0.0
+289,2026-04-13 17:30,Yuri Lima,27,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,88.93,1.9,24.55,0.0
+290,2025-01-30 15:30,Beatriz Pereira,26,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,89.56,1.74,29.58,250.0
+291,2026-01-13 08:15,Amanda Martins,38,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,72.56,1.83,21.62,250.0
+292,2025-10-30 08:30,Amanda Vieira,25,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,54.51,1.72,18.41,0.0
+293,2025-04-30 17:15,Bruno Soares,46,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,85.85,1.56,35.33,0.0
+294,2026-04-16 13:00,Bruno Rodrigues,53,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,97.1,1.67,34.89,250.0
+295,2025-07-22 17:00,Vitoria Gomes,36,Feminino,Primeira Consulta,Gestação,Dr. Felipe Barros,Faltou,74.36,1.79,23.27,250.0
+296,2025-06-12 10:30,Pedro Barbosa,53,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,50.09,1.58,20.07,0.0
+297,2025-12-26 17:45,Amanda Santos,27,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,86.09,1.56,35.23,150.0
+298,2025-05-02 13:30,Lucas Nunes,72,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,60.48,1.51,26.7,150.0
+299,2025-12-21 09:30,Rafael Souza,62,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,58.32,1.69,20.45,250.0
+300,2025-07-31 15:45,Wagner Fernandes,40,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,89.96,1.7,31.02,0.0
+301,2025-01-18 12:00,Victor Lima,22,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,79.15,1.83,23.65,0.0
+302,2026-04-05 09:30,Camila Mendes,73,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Cancelada,123.94,1.57,50.01,150.0
+303,2025-03-22 08:00,Vitoria Alves,28,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Cancelada,61.88,1.63,23.38,150.0
+304,2025-01-26 14:45,Juliana Santos,39,Feminino,Retorno,Emagrecimento,Dra. Camila Assis,Faltou,108.01,1.8,33.41,0.0
+305,2025-04-13 09:00,Olivia Ferreira,56,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,73.55,1.85,21.42,250.0
+306,2026-04-04 18:30,Fernanda Nunes,50,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,52.23,1.58,20.82,250.0
+307,2025-08-14 15:30,Pedro Lima,52,Feminino,Primeira Consulta,Gestação,Dra. Laura Mendes,Realizada,90.41,1.8,27.88,250.0
+308,2025-07-31 17:15,Roberto Santos,69,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,73.81,1.9,20.52,150.0
+309,2025-02-10 14:00,Luiz Vieira,73,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,90.42,1.94,24.09,250.0
+310,2025-03-06 08:45,Fernanda Barbosa,43,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,92.0,1.91,25.22,150.0
+311,2025-02-04 09:45,Roberto Martins,51,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Faltou,85.02,1.51,37.51,0.0
+312,2025-10-28 16:45,Helena Carvalho,25,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,55.05,1.75,17.91,150.0
+313,2025-05-27 16:30,João Lima,40,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,70.15,1.58,28.19,150.0
+314,2025-11-13 17:45,Carlos Martins,72,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Cancelada,69.4,1.71,23.63,150.0
+315,2025-07-10 08:30,Ursula Gomes,33,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Faltou,65.02,1.6,25.32,150.0
+316,2026-01-16 15:30,Sofia Dias,42,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Faltou,74.22,1.68,26.2,250.0
+317,2025-09-22 13:00,Luiz Ferreira,20,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,76.21,1.85,22.24,150.0
+318,2025-10-19 08:15,Nicolas Alves,69,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,113.75,1.91,31.08,250.0
+319,2025-05-21 13:45,Luiz Martins,56,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,99.54,1.72,33.65,150.0
+320,2026-05-07 15:30,Wagner Ferreira,69,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,52.48,1.51,22.95,150.0
+321,2026-03-14 17:15,Pedro Nunes,30,Feminino,Retorno,Gestação,Dr. Felipe Barros,Realizada,89.02,1.51,39.09,0.0
+322,2026-01-28 18:00,Francisco Rodrigues,57,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,126.87,1.77,40.32,150.0
+323,2025-12-31 18:30,Maria Martins,70,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,76.03,1.64,28.41,0.0
+324,2025-11-16 14:00,Ana Soares,58,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,74.09,1.81,22.66,150.0
+325,2025-06-22 12:30,Sofia Lima,57,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,88.08,1.86,25.39,250.0
+326,2025-11-04 14:30,Igor Dias,17,Masculino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,51.77,1.67,18.46,0.0
+327,2025-12-29 17:15,Vitoria Dias,61,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Cancelada,65.01,1.66,23.55,150.0
+328,2025-03-29 18:15,Tiago Souza,46,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,82.72,1.9,22.8,150.0
+329,2025-04-24 13:15,Ursula Carvalho,66,Masculino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,73.53,1.88,20.74,0.0
+330,2026-03-20 18:00,Francisco Alves,48,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,92.71,1.52,39.9,150.0
+331,2025-03-12 11:30,João Vieira,73,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Faltou,66.63,1.54,28.23,250.0
+332,2025-04-01 13:00,Ana Almeida,33,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,88.99,1.85,25.91,250.0
+333,2025-03-08 17:45,Larissa Carvalho,41,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,86.53,1.74,28.57,0.0
+334,2026-05-02 08:30,Marcos Alves,17,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,67.22,1.81,20.47,150.0
+335,2025-03-08 09:45,Luiz Vieira,35,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,103.62,1.71,35.64,250.0
+336,2025-09-26 13:45,Igor Costa,73,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Faltou,67.99,1.68,24.05,0.0
+337,2026-01-08 10:15,Bruno Vieira,48,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,62.79,1.89,17.5,250.0
+338,2025-10-01 17:00,Camila Santos,58,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Cancelada,99.44,1.55,41.28,150.0
+339,2025-03-05 16:30,Francisco Rocha,25,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,55.05,1.69,19.29,150.0
+340,2025-09-24 12:15,João Souza,48,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,85.99,1.59,34.04,0.0
+341,2025-05-15 16:15,Wagner Rocha,42,Masculino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,101.44,1.81,30.97,250.0
+342,2025-05-01 08:00,Fernanda Souza,69,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Cancelada,124.76,1.83,37.43,250.0
+343,2025-11-26 11:45,Tiago Lima,45,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Faltou,88.06,1.63,33.11,250.0
+344,2025-06-10 14:00,Gabriel Santos,16,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,71.89,1.66,26.06,150.0
+345,2025-11-15 12:00,Ximena Costa,27,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,84.5,1.88,24.01,0.0
+346,2025-09-02 14:15,Helena Rodrigues,60,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,106.29,1.72,36.05,250.0
+347,2025-08-13 10:45,Wagner Mendes,17,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,53.17,1.7,18.43,0.0
+348,2025-12-02 13:00,Marcos Dias,52,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,62.43,1.8,19.32,150.0
+349,2025-06-27 18:45,Juliana Fernandes,73,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,92.59,1.88,26.14,250.0
+350,2026-03-22 10:00,Paulo Costa,31,Masculino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,97.18,1.79,30.35,0.0
+351,2025-05-01 09:45,José Vieira,44,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,87.26,1.94,23.15,0.0
+352,2025-01-10 09:45,João Santos,51,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,82.73,1.75,26.92,250.0
+353,2025-08-22 13:30,Daniela Pereira,70,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Cancelada,85.8,1.8,26.61,0.0
+354,2025-02-28 09:15,Ana Costa,38,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Cancelada,94.84,1.55,39.59,150.0
+355,2025-09-10 10:45,Gabriel Lima,55,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,117.98,1.71,40.55,250.0
+356,2026-01-02 13:00,João Santos,75,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,86.81,1.5,38.48,0.0
+357,2025-10-11 14:45,Luiz Ferreira,60,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,81.22,1.8,25.18,150.0
+358,2025-06-14 16:45,João Mendes,74,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,56.67,1.7,19.52,0.0
+359,2025-07-31 17:30,Roberto Costa,61,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Cancelada,83.53,1.66,30.48,250.0
+360,2025-12-30 18:15,Luiz Fernandes,60,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,106.39,1.72,36.12,150.0
+361,2025-12-08 14:30,Maria Silva,49,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,60.0,1.8,18.48,250.0
+362,2026-01-20 10:30,Rafael Rodrigues,69,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Faltou,67.93,1.74,22.35,150.0
+363,2025-08-20 09:15,Roberto Martins,31,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,97.84,1.67,34.9,150.0
+364,2026-05-15 18:30,Roberto Santos,16,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Faltou,81.69,1.6,31.85,250.0
+365,2025-12-30 18:30,Beatriz Fernandes,63,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,83.89,1.58,33.61,150.0
+366,2025-04-06 10:00,Yuri Santos,43,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,62.75,1.76,20.19,150.0
+367,2025-06-19 15:15,Carlos Rodrigues,75,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,105.26,1.86,30.57,150.0
+368,2025-02-07 13:15,Mariana Soares,20,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,94.17,1.66,34.29,0.0
+369,2025-12-06 13:30,Ximena Gomes,29,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,72.28,1.8,22.28,150.0
+370,2026-04-09 18:15,Carlos Barbosa,72,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,90.56,1.74,29.8,0.0
+371,2026-04-12 16:30,Luiz Soares,44,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,97.41,1.73,32.5,250.0
+372,2025-03-27 16:00,Larissa Oliveira,29,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,85.14,1.74,28.06,150.0
+373,2026-05-15 14:00,Juliana Silva,45,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,88.85,1.58,35.59,250.0
+374,2025-02-06 17:15,Rafael Carvalho,40,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,83.66,1.51,36.81,150.0
+375,2025-10-01 08:00,Beatriz Santos,60,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,65.07,1.85,18.93,0.0
+376,2025-02-14 12:45,Yuri Martins,68,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,87.89,1.84,26.07,0.0
+377,2026-03-11 16:30,Larissa Rodrigues,35,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,78.64,1.52,34.09,250.0
+378,2025-07-21 16:00,Ursula Alves,63,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,80.84,1.58,32.27,250.0
+379,2025-05-10 11:00,Mariana Barbosa,67,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,62.53,1.8,19.25,150.0
+380,2025-04-12 17:45,Vitoria Ribeiro,24,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,72.53,1.64,26.87,250.0
+381,2025-11-12 18:30,Beatriz Rodrigues,52,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,89.28,1.64,33.16,0.0
+382,2025-12-31 18:45,Sofia Ribeiro,24,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,74.35,1.85,21.76,0.0
+383,2025-02-25 10:00,Sofia Rodrigues,73,Feminino,Retorno,Gestação,Dra. Laura Mendes,Cancelada,50.93,1.53,21.65,0.0
+384,2025-09-17 18:00,Beatriz Vieira,41,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,76.98,1.9,21.27,250.0
+385,2025-12-01 10:30,Zelia Pereira,73,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,50.53,1.66,18.25,250.0
+386,2025-05-03 17:15,Luiz Rodrigues,44,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Cancelada,96.96,1.83,28.97,250.0
+387,2025-01-21 11:45,Pedro Oliveira,32,Masculino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,94.87,1.91,26.05,250.0
+388,2025-08-29 15:00,Carlos Nunes,36,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Faltou,78.93,1.83,23.47,150.0
+389,2025-10-19 10:45,Yuri Ribeiro,53,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,67.64,1.73,22.54,150.0
+390,2026-03-21 13:45,Francisco Mendes,16,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,69.83,1.73,23.29,0.0
+391,2025-03-18 10:15,Ximena Mendes,61,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Faltou,63.97,1.65,23.54,150.0
+392,2025-12-12 15:45,Olivia Vieira,26,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,65.64,1.76,21.24,250.0
+393,2025-11-19 16:00,Amanda Rodrigues,19,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,82.32,1.94,21.96,0.0
+394,2026-03-26 18:30,Fernanda Alves,44,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Faltou,64.99,1.68,22.9,0.0
+395,2025-10-26 10:30,Lucas Dias,59,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,56.61,1.67,20.29,0.0
+396,2025-01-09 11:45,Juliana Mendes,22,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,87.62,1.74,28.97,0.0
+397,2025-02-17 15:15,Camila Fernandes,68,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,93.74,1.69,32.85,150.0
+398,2025-12-24 16:45,Pedro Lopes,66,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,73.86,1.56,30.34,0.0
+399,2025-04-30 09:30,Camila Fernandes,42,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,103.59,1.74,34.41,250.0
+400,2025-07-12 18:15,Victor Carvalho,39,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Realizada,71.18,1.88,20.04,250.0
+401,2025-07-07 17:30,Zelia Alves,42,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,78.88,1.94,20.86,250.0
+402,2026-02-01 14:15,Helena Dias,30,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,87.51,1.73,29.28,150.0
+403,2026-02-15 16:00,Lucas Martins,56,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,62.24,1.7,21.64,250.0
+404,2025-04-24 13:00,Camila Santos,62,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Cancelada,52.87,1.93,14.14,0.0
+405,2026-02-01 10:45,José Silva,28,Masculino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,76.98,1.58,30.98,250.0
+406,2025-05-03 18:00,Lucas Oliveira,33,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,75.89,1.76,24.4,0.0
+407,2026-01-13 09:00,Roberto Gomes,62,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,72.74,1.93,19.46,0.0
+408,2025-07-26 17:00,Rafael Ferreira,42,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,119.16,1.93,32.12,150.0
+409,2026-05-05 12:30,José Martins,52,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,79.34,1.71,27.22,250.0
+410,2025-01-15 15:00,Rafael Oliveira,40,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Faltou,97.77,1.64,36.26,150.0
+411,2025-09-22 16:00,Rafael Pereira,34,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,58.92,1.75,19.25,0.0
+412,2025-06-10 13:15,Amanda Lima,27,Feminino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,93.64,1.83,27.93,0.0
+413,2025-04-16 11:15,Quintino Mendes,38,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Cancelada,102.1,1.93,27.41,250.0
+414,2025-01-04 16:00,Francisco Ribeiro,55,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,88.21,1.58,35.23,0.0
+415,2025-09-19 12:45,Pedro Vieira,24,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,67.36,1.51,29.36,150.0
+416,2026-03-17 18:15,Antônio Souza,60,Masculino,Retorno,Gestação,Dra. Laura Mendes,Realizada,68.97,1.8,21.21,0.0
+417,2025-02-21 13:30,Letícia Lima,27,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,59.2,1.65,21.63,250.0
+418,2025-08-06 11:45,Ximena Ribeiro,70,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,78.79,1.56,32.42,0.0
+419,2025-04-28 09:30,Quintino Fernandes,43,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,66.18,1.86,19.08,250.0
+420,2025-09-13 10:30,Paulo Gomes,32,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,88.99,1.6,34.89,0.0
+421,2026-03-06 18:00,José Dias,37,Masculino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,56.06,1.51,24.62,0.0
+422,2026-03-21 18:15,Amanda Vieira,57,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Cancelada,88.74,1.73,29.66,0.0
+423,2025-08-17 09:45,Letícia Gomes,45,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,78.58,1.78,24.69,250.0
+424,2026-03-11 09:00,Lucas Costa,30,Masculino,Retorno,Gestação,Dra. Camila Assis,Cancelada,82.23,1.62,31.32,0.0
+425,2025-05-19 15:30,Beatriz Soares,44,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,83.17,1.83,24.9,250.0
+426,2026-04-27 09:15,Lucas Martins,22,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,76.2,1.85,22.34,250.0
+427,2025-02-12 09:30,Letícia Rodrigues,21,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Cancelada,81.93,1.63,30.92,0.0
+428,2025-03-09 16:15,Bruno Santos,58,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Faltou,63.62,1.74,20.93,0.0
+429,2025-08-16 10:15,Beatriz Mendes,45,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,61.36,1.72,20.82,150.0
+430,2025-02-15 15:30,Ximena Carvalho,32,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,121.64,1.87,34.9,0.0
+431,2025-06-26 12:45,Ricardo Silva,60,Masculino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Faltou,64.65,1.69,22.54,0.0
+432,2025-04-29 08:30,Nicolas Carvalho,72,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Cancelada,73.64,1.83,21.95,0.0
+433,2025-07-13 11:30,Fernanda Carvalho,56,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,76.6,1.79,23.86,150.0
+434,2025-05-18 14:15,Eduardo Ferreira,24,Masculino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,85.02,1.7,29.29,250.0
+435,2025-09-09 11:30,Bruno Rodrigues,19,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,99.11,1.56,40.92,250.0
+436,2025-01-05 11:00,Juliana Silva,47,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Faltou,99.9,1.86,28.88,0.0
+437,2025-08-26 08:30,Fernanda Rodrigues,19,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,121.28,1.59,48.19,0.0
+438,2026-02-23 14:00,Helena Rocha,31,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,86.98,1.71,29.84,0.0
+439,2025-09-24 18:15,Francisco Martins,59,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Cancelada,78.23,1.92,21.18,0.0
+440,2025-05-10 15:30,Nicolas Ribeiro,72,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,71.36,1.78,22.4,150.0
+441,2025-03-27 12:00,Zelia Pereira,16,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Cancelada,68.57,1.77,21.93,150.0
+442,2025-02-15 11:15,Paulo Oliveira,59,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,113.57,1.79,35.44,150.0
+443,2026-02-10 09:15,Paulo Pereira,36,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,67.91,1.81,20.72,0.0
+444,2025-03-10 12:00,Paulo Rocha,44,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,77.18,1.76,25.06,150.0
+445,2025-06-15 15:30,Camila Fernandes,26,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,78.96,1.87,22.61,150.0
+446,2025-08-21 08:45,Mariana Silva,55,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Cancelada,93.85,1.53,40.17,150.0
+447,2026-02-24 14:15,Marcos Barbosa,47,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,55.52,1.79,17.36,150.0
+448,2025-09-25 18:00,Carlos Rodrigues,27,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,106.41,1.54,44.61,250.0
+449,2026-03-05 14:45,Marcos Mendes,60,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,50.65,1.82,15.24,250.0
+450,2026-04-17 11:45,Fernanda Almeida,67,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Faltou,85.42,1.67,30.77,0.0
+451,2026-02-26 17:30,Marcos Santos,62,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,114.88,1.54,48.21,0.0
+452,2025-09-30 14:15,Nicolas Soares,58,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,70.76,1.84,20.97,150.0
+453,2025-02-24 18:30,Antônio Rocha,58,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,71.81,1.68,25.42,250.0
+454,2025-03-22 16:45,Wagner Costa,51,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Faltou,80.42,1.83,24.1,0.0
+455,2025-10-16 16:15,Yuri Fernandes,75,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,51.73,1.5,22.99,0.0
+456,2025-05-26 17:00,Marcos Rodrigues,72,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,51.09,1.89,14.38,250.0
+457,2026-02-25 12:15,Gabriel Santos,45,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,68.74,1.9,19.04,250.0
+458,2025-05-12 12:00,Amanda Martins,52,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Faltou,101.86,1.72,34.54,150.0
+459,2026-04-06 17:00,Camila Nunes,35,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,96.09,1.85,28.05,150.0
+460,2025-06-21 13:45,João Souza,71,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Cancelada,69.12,1.85,20.2,150.0
+461,2025-06-06 16:00,Victor Fernandes,52,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,86.58,1.52,37.34,0.0
+462,2025-07-21 15:00,Pedro Carvalho,34,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,86.09,1.71,29.3,250.0
+463,2025-10-08 14:30,Fernanda Martins,48,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,77.08,1.75,25.12,150.0
+464,2025-11-30 17:15,Roberto Mendes,63,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Faltou,112.66,1.69,39.28,250.0
+465,2025-10-22 09:00,João Carvalho,39,Masculino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,88.48,1.79,27.46,250.0
+466,2025-03-28 13:45,Letícia Rodrigues,44,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,89.85,1.84,26.51,250.0
+467,2025-02-27 08:15,Letícia Rodrigues,71,Masculino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,51.14,1.7,17.64,250.0
+468,2025-04-18 16:15,Olivia Fernandes,49,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,50.92,1.81,15.47,150.0
+469,2025-10-26 18:00,Rafael Ferreira,19,Masculino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,97.26,1.71,33.29,250.0
+470,2025-02-04 14:30,Ximena Souza,17,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,85.48,1.73,28.6,150.0
+471,2026-04-08 13:45,Camila Fernandes,21,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,51.07,1.92,13.9,250.0
+472,2025-05-07 16:30,Vitoria Lopes,41,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,61.81,1.78,19.48,250.0
+473,2026-05-16 16:30,Daniela Nunes,32,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,94.86,1.57,38.57,250.0
+474,2025-12-03 10:00,Yuri Soares,59,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,91.84,1.94,24.48,0.0
+475,2025-06-18 15:15,Olivia Nunes,24,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,98.79,1.95,26.03,250.0
+476,2025-03-16 18:15,Victor Oliveira,51,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,65.93,1.51,28.79,250.0
+477,2026-05-14 14:45,Ursula Almeida,63,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,86.69,1.58,34.59,250.0
+478,2025-11-10 17:30,Camila Vieira,55,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Cancelada,62.78,1.51,27.47,150.0
+479,2026-02-04 15:15,Luiz Mendes,46,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Realizada,59.66,1.56,24.46,250.0
+480,2025-01-17 14:00,Sofia Carvalho,30,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,101.95,1.89,28.53,250.0
+481,2025-06-16 15:15,Maria Martins,65,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Cancelada,80.58,1.64,29.93,150.0
+482,2026-01-16 17:00,Marcos Souza,44,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Cancelada,73.56,1.52,31.94,250.0
+483,2026-01-27 18:00,Nicolas Gomes,44,Masculino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,80.66,1.69,28.24,0.0
+484,2025-01-28 16:15,Antônio Nunes,44,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,96.89,1.85,28.3,150.0
+485,2025-12-23 16:15,Zelia Carvalho,36,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,91.35,1.9,25.21,250.0
+486,2026-03-28 15:00,Rafael Costa,60,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,72.47,1.55,30.11,150.0
+487,2025-07-05 09:45,Luiz Mendes,26,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Faltou,66.76,1.58,26.85,150.0
+488,2026-03-23 18:15,Lucas Rodrigues,27,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Cancelada,72.31,1.85,21.22,0.0
+489,2025-11-17 10:00,Igor Alves,16,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Faltou,90.37,1.72,30.39,250.0
+490,2025-11-08 15:15,Olivia Vieira,58,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,50.33,1.77,16.05,0.0
+491,2026-03-28 16:30,Letícia Nunes,51,Feminino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,61.29,1.79,19.04,250.0
+492,2026-03-14 08:30,Vitoria Oliveira,19,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Cancelada,83.13,1.63,31.37,0.0
+493,2025-12-25 17:15,Antônio Dias,53,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,95.84,1.67,34.54,250.0
+494,2025-02-04 14:00,Tiago Lopes,24,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,60.49,1.69,21.28,150.0
+495,2025-04-18 17:00,Gabriel Vieira,62,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,65.82,1.77,20.92,0.0
+496,2025-09-27 17:30,Igor Mendes,52,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,94.18,1.86,27.12,150.0
+497,2025-04-30 12:15,Ana Souza,17,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Faltou,97.8,1.78,30.98,150.0
+498,2025-01-24 13:30,Roberto Nunes,29,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,70.77,1.86,20.55,150.0
+499,2025-09-17 16:30,Ana Souza,59,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Faltou,66.53,1.58,26.68,0.0
+500,2025-06-23 18:45,Francisco Santos,57,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Faltou,71.73,1.74,23.65,0.0
+501,2026-02-06 14:00,Marcos Gomes,52,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,66.59,1.76,21.5,150.0
+502,2026-04-15 13:00,Juliana Lima,69,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,59.37,1.77,18.9,0.0
+503,2025-03-01 12:30,Carlos Lima,42,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,70.59,1.87,20.12,0.0
+504,2025-09-26 12:15,Helena Ribeiro,66,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,101.55,1.51,44.46,250.0
+505,2025-09-14 10:15,Vitoria Lopes,62,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Faltou,78.07,1.94,20.7,0.0
+506,2025-03-09 11:00,Antônio Martins,61,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Cancelada,93.59,1.88,26.43,250.0
+507,2025-06-20 15:00,Gabriel Soares,65,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Cancelada,66.04,1.9,18.27,250.0
+508,2025-04-09 12:30,Ricardo Costa,65,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,81.3,1.57,32.94,150.0
+509,2026-05-06 17:00,Olivia Fernandes,38,Masculino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,62.49,1.61,24.1,0.0
+510,2025-11-10 13:45,Daniela Rodrigues,17,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,98.46,1.52,42.38,150.0
+511,2025-04-02 17:45,Letícia Ribeiro,35,Masculino,Primeira Consulta,Gestação,Dra. Laura Mendes,Faltou,78.39,1.84,23.05,250.0
+512,2025-02-17 15:00,Antônio Gomes,59,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,81.59,1.89,22.9,0.0
+513,2026-04-13 13:45,Mariana Rocha,74,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,55.64,1.53,23.79,0.0
+514,2025-09-03 15:15,Tiago Ribeiro,54,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Faltou,80.88,1.82,24.38,150.0
+515,2025-10-12 18:00,Ursula Fernandes,45,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,57.95,1.61,22.37,150.0
+516,2025-09-04 14:00,Vitoria Alves,68,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,58.65,1.81,17.86,0.0
+517,2025-12-09 09:45,Helena Vieira,54,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,65.4,1.7,22.62,0.0
+518,2025-07-27 09:00,Camila Martins,36,Masculino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,56.95,1.6,22.3,150.0
+519,2025-10-25 18:00,Juliana Barbosa,25,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,59.78,1.76,19.3,150.0
+520,2025-12-15 13:30,Amanda Barbosa,35,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,99.32,1.5,43.93,150.0
+521,2025-07-26 10:30,Daniela Ribeiro,73,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,93.28,1.89,26.18,250.0
+522,2025-05-01 14:45,Larissa Costa,61,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,58.67,1.6,23.06,0.0
+523,2025-03-13 11:45,Ximena Carvalho,25,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,60.55,1.53,25.79,150.0
+524,2026-01-05 15:45,Igor Oliveira,24,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,75.47,1.58,30.2,0.0
+525,2025-10-10 15:45,Wagner Pereira,27,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Faltou,114.17,1.83,34.13,150.0
+526,2025-05-18 14:30,Carlos Santos,52,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,84.52,1.72,28.68,150.0
+527,2025-03-14 16:30,Antônio Soares,21,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Cancelada,89.9,1.79,28.21,250.0
+528,2025-06-09 17:00,Vitoria Fernandes,65,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,71.05,1.83,21.21,0.0
+529,2026-05-07 12:30,Lucas Santos,60,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,78.91,1.78,24.82,150.0
+530,2025-10-21 08:30,Letícia Silva,34,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Faltou,68.82,1.85,20.05,250.0
+531,2025-11-12 12:30,Rafael Silva,63,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Cancelada,88.27,1.7,30.51,150.0
+532,2025-05-14 11:45,Mariana Soares,71,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,83.48,1.92,22.64,0.0
+533,2025-09-11 14:45,Quintino Barbosa,44,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,87.77,1.79,27.42,250.0
+534,2025-03-01 08:15,Antônio Martins,46,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,69.5,1.81,21.27,0.0
+535,2025-05-15 10:45,Ana Gomes,75,Masculino,Retorno,Gestação,Dra. Camila Assis,Realizada,52.05,1.81,15.94,0.0
+536,2026-04-15 16:30,Maria Mendes,74,Masculino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Faltou,82.72,1.54,34.69,0.0
+537,2025-07-20 15:15,Beatriz Alves,49,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,83.64,1.75,27.42,150.0
+538,2026-03-02 09:00,João Souza,49,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,62.59,1.83,18.77,150.0
+539,2025-01-18 08:00,Daniela Mendes,58,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Cancelada,54.32,1.93,14.57,150.0
+540,2025-11-06 10:45,Amanda Ferreira,73,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,92.77,1.71,31.72,150.0
+541,2025-11-24 15:30,Maria Rocha,73,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,73.4,1.85,21.45,0.0
+542,2025-06-20 08:30,Rafael Ferreira,44,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,63.8,1.79,19.9,0.0
+543,2025-10-04 14:15,Letícia Nunes,22,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,78.57,1.53,33.44,150.0
+544,2025-05-09 15:00,Paulo Rodrigues,57,Feminino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,66.49,1.57,27.04,250.0
+545,2025-07-20 17:00,Luiz Rocha,65,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Faltou,90.61,1.83,27.13,0.0
+546,2025-02-05 16:15,Ana Martins,60,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,70.03,1.81,21.45,250.0
+547,2025-11-20 18:00,Ximena Fernandes,70,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Cancelada,77.72,1.59,30.69,250.0
+548,2026-05-11 14:15,Ursula Rocha,40,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,81.64,1.54,34.5,150.0
+549,2026-01-12 11:15,Carlos Alves,17,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Faltou,65.39,1.74,21.52,0.0
+550,2025-10-01 15:00,Carlos Costa,19,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Realizada,110.96,1.6,43.6,150.0
+551,2025-09-25 15:15,Beatriz Pereira,75,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,73.56,1.79,22.85,250.0
+552,2026-04-16 17:00,Quintino Rocha,57,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,63.41,1.87,18.14,250.0
+553,2025-11-09 10:00,Gabriel Souza,47,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,94.38,1.87,27.13,250.0
+554,2025-12-14 14:30,Helena Barbosa,52,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,62.21,1.58,24.98,0.0
+555,2025-05-21 10:45,Lucas Rocha,39,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,89.66,1.54,37.56,0.0
+556,2025-11-10 14:15,Bruno Lopes,21,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Cancelada,91.04,1.79,28.31,250.0
+557,2025-08-02 15:15,Olivia Rodrigues,56,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,80.53,1.92,21.8,150.0
+558,2025-01-20 17:15,Paulo Mendes,21,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,55.88,1.61,21.66,0.0
+559,2025-09-29 09:30,Ricardo Soares,30,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,55.63,1.52,23.96,150.0
+560,2025-03-18 18:45,Paulo Ferreira,26,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,62.57,1.59,24.62,250.0
+561,2025-11-12 15:00,Gabriel Dias,19,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,124.23,1.55,51.56,250.0
+562,2026-01-05 15:30,João Alves,63,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,115.58,1.54,48.47,250.0
+563,2026-03-22 11:45,Pedro Oliveira,46,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,72.75,1.92,19.79,250.0
+564,2025-07-18 13:15,Antônio Dias,28,Masculino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,79.9,1.51,34.84,0.0
+565,2025-05-24 10:00,Antônio Almeida,42,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,87.81,1.57,35.6,0.0
+566,2026-05-03 17:15,Amanda Fernandes,70,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Faltou,79.58,1.95,20.97,250.0
+567,2026-03-05 15:30,Ana Dias,43,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,96.37,1.6,37.64,250.0
+568,2026-04-30 10:00,João Santos,18,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,73.96,1.74,24.46,150.0
+569,2026-02-13 09:45,Paulo Pereira,21,Feminino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,64.79,1.56,26.63,150.0
+570,2025-11-28 09:00,Francisco Barbosa,35,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,56.93,1.71,19.5,150.0
+571,2025-12-27 14:15,Ximena Nunes,45,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Cancelada,76.8,1.65,28.22,150.0
+572,2025-08-07 12:15,Fernanda Mendes,72,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,95.11,1.55,39.59,150.0
+573,2025-11-13 08:30,Ximena Ferreira,57,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,61.93,1.94,16.43,150.0
+574,2025-02-28 18:45,Beatriz Rocha,29,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,63.86,1.81,19.58,0.0
+575,2025-02-02 13:30,José Lopes,48,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,90.0,1.78,28.42,0.0
+576,2026-04-30 09:15,Antônio Oliveira,21,Masculino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,55.6,1.57,22.44,250.0
+577,2025-03-17 15:15,Olivia Soares,56,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,72.19,1.66,26.32,0.0
+578,2025-11-27 08:30,Nicolas Oliveira,17,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,82.79,1.76,26.71,150.0
+579,2026-02-07 13:45,Beatriz Barbosa,60,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Faltou,89.46,1.64,33.35,0.0
+580,2025-04-27 15:30,Tiago Santos,25,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,85.59,1.92,23.32,0.0
+581,2025-05-27 10:15,Juliana Ferreira,31,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,59.22,1.62,22.65,250.0
+582,2025-10-15 08:30,Wagner Rodrigues,39,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,74.16,1.91,20.24,150.0
+583,2025-09-13 10:45,Victor Rodrigues,16,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,98.48,1.9,27.19,150.0
+584,2026-01-22 17:15,Amanda Dias,74,Masculino,Retorno,Gestação,Dra. Laura Mendes,Cancelada,52.0,1.72,17.67,0.0
+585,2025-12-14 16:00,Ursula Silva,41,Feminino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,82.07,1.52,35.3,0.0
+586,2025-10-26 16:15,Sofia Alves,17,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,74.52,1.68,26.48,150.0
+587,2025-11-05 17:00,Ximena Martins,25,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,67.57,1.63,25.49,0.0
+588,2026-05-16 15:00,Olivia Dias,72,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,86.4,1.57,34.89,150.0
+589,2026-04-05 14:45,Igor Vieira,54,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,78.39,1.94,20.73,250.0
+590,2025-06-21 09:45,Fernanda Silva,42,Masculino,Retorno,Hipertrofia,Dr. Felipe Barros,Cancelada,92.02,1.76,29.86,0.0
+591,2025-04-13 10:45,Tiago Fernandes,47,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,73.17,1.75,23.85,0.0
+592,2025-01-14 08:15,Rafael Gomes,56,Masculino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,95.34,1.58,38.16,250.0
+593,2025-11-27 11:00,Helena Lima,47,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,71.8,1.72,24.38,150.0
+594,2025-05-13 18:45,Helena Ribeiro,48,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,90.74,1.64,33.58,0.0
+595,2025-03-11 13:15,Daniela Lima,39,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,81.95,1.63,30.8,150.0
+596,2025-02-09 16:15,Larissa Ferreira,64,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Faltou,89.57,1.64,33.21,150.0
+597,2026-02-14 12:30,Ximena Souza,50,Masculino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,117.83,1.63,44.53,250.0
+598,2025-07-30 13:15,Gabriel Alves,25,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,53.82,1.71,18.47,250.0
+599,2026-02-24 10:00,Francisco Ribeiro,35,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Realizada,51.44,1.82,15.54,250.0
+600,2026-02-22 09:15,Igor Rocha,25,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,74.87,1.94,19.86,0.0
+601,2026-01-26 09:00,Bruno Lopes,64,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,77.97,1.86,22.61,250.0
+602,2025-01-31 15:00,Rafael Santos,20,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Faltou,108.1,1.56,44.66,150.0
+603,2025-10-28 11:15,Wagner Silva,21,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,75.03,1.57,30.35,150.0
+604,2026-01-09 17:15,Luiz Vieira,20,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Cancelada,90.5,1.59,35.97,150.0
+605,2026-04-07 16:00,Gabriel Alves,74,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,55.37,1.8,17.03,0.0
+606,2026-03-04 13:45,Maria Alves,48,Feminino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,103.59,1.71,35.44,0.0
+607,2025-09-11 13:30,Roberto Dias,18,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,80.02,1.63,30.21,0.0
+608,2025-06-09 18:45,Pedro Fernandes,42,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Faltou,92.87,1.86,26.81,0.0
+609,2025-07-08 10:00,Paulo Barbosa,22,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,70.03,1.56,28.61,0.0
+610,2025-10-30 09:15,Eduardo Ribeiro,28,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,71.24,1.6,27.66,250.0
+611,2025-09-13 12:30,Zelia Ribeiro,46,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,55.4,1.85,16.26,0.0
+612,2025-05-09 15:45,Pedro Nunes,24,Feminino,Primeira Consulta,Gestação,Dra. Laura Mendes,Faltou,83.91,1.53,35.81,250.0
+613,2026-05-13 10:45,Camila Barbosa,36,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,87.58,1.53,37.2,0.0
+614,2026-01-28 15:45,Nicolas Gomes,58,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,92.98,1.65,33.96,0.0
+615,2025-10-07 08:00,Maria Souza,40,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,58.84,1.52,25.6,0.0
+616,2025-12-04 12:15,Paulo Carvalho,24,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Faltou,83.75,1.55,34.9,150.0
+617,2025-12-04 16:45,Francisco Fernandes,70,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Realizada,128.4,1.72,43.27,150.0
+618,2025-11-12 18:30,Tiago Costa,19,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Faltou,119.53,1.66,43.12,150.0
+619,2025-10-26 08:30,Yuri Souza,43,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,62.38,1.8,19.31,0.0
+620,2025-11-28 12:00,Eduardo Gomes,23,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,122.49,1.71,42.02,250.0
+621,2025-10-18 16:45,Sofia Silva,60,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,92.73,1.76,30.05,150.0
+622,2025-02-20 15:00,Olivia Costa,47,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,60.09,1.94,16.03,250.0
+623,2025-11-22 09:15,Tiago Lima,19,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,54.6,1.83,16.23,150.0
+624,2026-03-09 17:00,Beatriz Costa,33,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,89.78,1.59,35.32,150.0
+625,2025-11-30 12:30,Maria Barbosa,50,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Realizada,72.66,1.78,22.9,250.0
+626,2026-01-26 16:15,Bruno Nunes,61,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,87.11,1.93,23.31,150.0
+627,2025-08-28 12:45,Amanda Dias,56,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,65.27,1.57,26.6,150.0
+628,2025-12-17 12:45,João Costa,71,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,82.61,1.87,23.61,150.0
+629,2025-05-12 18:15,Zelia Pereira,23,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Faltou,100.53,1.87,28.68,250.0
+630,2025-10-14 14:45,Carlos Alves,26,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Faltou,111.23,1.86,32.1,250.0
+631,2025-04-01 18:00,Paulo Silva,19,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Faltou,97.75,1.53,41.84,0.0
+632,2026-04-05 13:00,Zelia Dias,69,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,106.92,1.8,33.04,250.0
+633,2026-02-01 16:30,Paulo Oliveira,31,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Faltou,61.8,1.84,18.32,0.0
+634,2025-08-05 11:15,Gabriel Ferreira,29,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Faltou,74.52,1.77,23.91,0.0
+635,2025-07-11 09:30,Ricardo Carvalho,46,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,88.75,1.82,26.73,0.0
+636,2025-01-11 18:00,Daniela Rocha,74,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,85.03,1.79,26.61,0.0
+637,2026-04-08 18:00,Ricardo Pereira,70,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,126.5,1.64,47.3,0.0
+638,2026-01-23 11:30,Olivia Ferreira,74,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Faltou,93.32,1.52,40.65,150.0
+639,2026-02-26 15:45,João Costa,61,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,74.73,1.53,31.93,250.0
+640,2026-01-09 16:30,Antônio Rocha,17,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Cancelada,82.05,1.7,28.41,150.0
+641,2025-01-02 14:15,Larissa Gomes,36,Feminino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,86.87,1.82,26.19,250.0
+642,2025-11-29 10:45,Victor Almeida,46,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Faltou,62.95,1.63,23.79,0.0
+643,2025-07-08 10:45,Yuri Vieira,30,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,59.91,1.94,15.95,250.0
+644,2025-12-26 10:00,Zelia Mendes,43,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,81.45,1.93,21.95,250.0
+645,2026-01-03 16:45,Antônio Barbosa,47,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,90.67,1.93,24.45,250.0
+646,2025-05-17 12:45,Yuri Rodrigues,43,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Cancelada,74.64,1.8,22.92,150.0
+647,2025-07-29 10:00,Tiago Lima,31,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,56.66,1.5,25.03,250.0
+648,2025-06-15 14:15,Yuri Rocha,43,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,87.92,1.65,32.3,250.0
+649,2026-04-11 13:00,Ana Lima,48,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,77.98,1.94,20.81,0.0
+650,2025-10-25 10:30,Lucas Soares,47,Masculino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,75.15,1.82,22.7,0.0
+651,2025-05-14 09:30,Carlos Rodrigues,47,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,63.16,1.91,17.38,150.0
+652,2026-03-01 12:30,Maria Ferreira,36,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,52.73,1.59,20.99,250.0
+653,2025-04-04 08:45,Rafael Ferreira,61,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,129.39,1.7,44.84,0.0
+654,2025-10-15 15:45,Paulo Souza,70,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,59.03,1.89,16.51,250.0
+655,2025-03-28 16:30,Amanda Barbosa,53,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,88.54,1.91,24.16,150.0
+656,2025-09-13 18:00,Vitoria Silva,34,Feminino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Faltou,51.44,1.65,19.0,0.0
+657,2025-08-24 18:45,Antônio Nunes,33,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,129.99,1.93,35.03,0.0
+658,2026-04-10 17:15,Olivia Santos,67,Masculino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,95.98,1.93,25.81,0.0
+659,2025-07-24 12:15,Quintino Martins,21,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Faltou,82.65,1.68,29.25,250.0
+660,2026-05-04 18:15,Helena Gomes,47,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,91.6,1.8,28.29,150.0
+661,2025-09-20 11:45,José Martins,46,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,90.55,1.84,26.73,150.0
+662,2025-11-11 10:45,Larissa Carvalho,21,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,84.31,1.6,32.9,150.0
+663,2025-03-21 15:00,Tiago Almeida,43,Feminino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,65.02,1.81,19.89,0.0
+664,2025-05-08 16:45,Tiago Vieira,19,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,54.72,1.69,19.13,250.0
+665,2025-12-05 17:30,Wagner Lima,53,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Cancelada,84.88,1.8,26.26,150.0
+666,2025-04-04 14:00,Fernanda Carvalho,72,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Faltou,81.19,1.8,25.01,0.0
+667,2025-05-16 13:15,Olivia Ferreira,21,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Realizada,96.72,1.51,42.53,150.0
+668,2025-01-07 10:45,Antônio Rocha,41,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Cancelada,84.51,1.8,25.99,0.0
+669,2025-07-22 12:00,Igor Rodrigues,16,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Faltou,101.46,1.51,44.38,250.0
+670,2025-03-16 18:15,Maria Nunes,70,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,51.09,1.71,17.41,250.0
+671,2025-03-27 10:45,Paulo Lopes,17,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,89.18,1.76,28.91,150.0
+672,2025-01-27 13:00,Gabriel Nunes,70,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,74.31,1.72,25.13,0.0
+673,2025-10-30 17:45,Pedro Rocha,19,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,94.64,1.53,40.51,0.0
+674,2025-08-02 15:00,Paulo Mendes,57,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,86.31,1.57,34.9,0.0
+675,2025-08-29 13:45,Pedro Soares,30,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,86.15,1.9,23.93,150.0
+676,2025-07-19 14:30,Francisco Ferreira,55,Feminino,Retorno,Gestação,Dra. Laura Mendes,Cancelada,58.66,1.72,19.89,0.0
+677,2025-03-22 17:45,Gabriel Carvalho,47,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,69.13,1.66,25.04,250.0
+678,2025-12-13 10:15,Luiz Santos,67,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,78.1,1.6,30.43,0.0
+679,2025-09-07 12:30,Wagner Santos,65,Masculino,Primeira Consulta,Gestação,Dra. Laura Mendes,Cancelada,97.31,1.52,41.97,250.0
+680,2026-02-14 15:00,Gabriel Mendes,55,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,122.9,1.78,38.64,150.0
+681,2026-04-12 13:15,Tiago Rocha,44,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Cancelada,120.05,1.66,43.37,150.0
+682,2025-03-04 11:45,João Silva,31,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,85.76,1.62,32.69,0.0
+683,2025-08-01 13:15,Juliana Soares,42,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Realizada,97.59,1.9,26.92,250.0
+684,2025-09-22 18:30,Bruno Almeida,25,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,70.08,1.65,25.67,150.0
+685,2026-01-31 10:45,Daniela Martins,64,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,81.58,1.53,35.03,150.0
+686,2026-01-01 18:30,João Martins,72,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,63.99,1.5,28.31,150.0
+687,2025-09-28 17:15,Zelia Almeida,57,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Cancelada,90.59,1.66,33.06,150.0
+688,2025-11-29 14:15,Ursula Oliveira,18,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,64.2,1.95,16.95,0.0
+689,2025-02-17 16:30,Marcos Costa,64,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,91.72,1.87,26.1,250.0
+690,2025-08-05 16:00,Daniela Ribeiro,32,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,115.53,1.63,43.26,250.0
+691,2025-08-21 13:15,Beatriz Vieira,61,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Cancelada,85.74,1.85,24.97,0.0
+692,2025-12-11 10:45,Marcos Dias,31,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,72.72,1.85,21.24,0.0
+693,2025-03-17 14:45,Fernanda Oliveira,19,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,83.84,1.54,35.58,250.0
+694,2025-07-26 17:45,Rafael Vieira,47,Masculino,Retorno,Gestação,Dr. Felipe Barros,Cancelada,91.19,1.94,24.28,0.0
+695,2025-03-15 16:15,Paulo Rocha,45,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Cancelada,73.67,1.6,28.93,150.0
+696,2026-01-18 10:30,Helena Mendes,70,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,103.75,1.63,39.04,250.0
+697,2025-03-02 13:30,Ximena Gomes,34,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Faltou,61.7,1.77,19.8,250.0
+698,2026-04-03 12:30,Olivia Ferreira,68,Masculino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,97.97,1.89,27.38,250.0
+699,2025-10-21 12:45,Vitoria Martins,46,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Faltou,72.45,1.7,25.0,250.0
+700,2026-03-20 13:00,Letícia Barbosa,55,Masculino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,93.53,1.74,30.77,0.0
+701,2026-04-01 15:30,Fernanda Ferreira,61,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,82.2,1.79,25.64,150.0
+702,2025-02-13 11:00,Amanda Soares,28,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Cancelada,84.89,1.92,23.0,150.0
+703,2025-01-10 12:15,Quintino Rocha,69,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,74.57,1.77,23.94,250.0
+704,2026-04-24 08:30,Maria Ferreira,42,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,98.99,1.54,41.69,150.0
+705,2025-10-05 10:30,Juliana Ferreira,32,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Cancelada,80.72,1.58,32.49,250.0
+706,2025-06-16 10:00,Daniela Gomes,40,Feminino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,92.96,1.62,35.59,0.0
+707,2026-04-06 09:00,Nicolas Pereira,64,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,65.92,1.62,25.08,0.0
+708,2025-10-11 14:00,Francisco Silva,42,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,82.58,1.84,24.3,250.0
+709,2025-03-06 12:45,José Oliveira,70,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Faltou,97.63,1.61,37.65,250.0
+710,2026-05-08 16:45,Carlos Silva,68,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,96.09,1.53,41.21,150.0
+711,2025-05-20 17:30,Yuri Ribeiro,69,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,76.7,1.57,31.01,150.0
+712,2025-02-05 12:00,Zelia Rocha,23,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,75.24,1.59,29.58,150.0
+713,2026-02-15 13:30,Larissa Lima,64,Masculino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,93.56,1.59,36.79,0.0
+714,2025-06-18 08:15,Ana Mendes,46,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,84.82,1.75,27.69,250.0
+715,2025-09-08 14:00,Eduardo Fernandes,17,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Faltou,108.07,1.67,38.78,150.0
+716,2025-07-18 10:00,Helena Almeida,39,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Cancelada,90.46,1.51,39.73,0.0
+717,2026-04-17 13:15,Fernanda Mendes,56,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,61.29,1.94,16.36,150.0
+718,2025-09-10 17:15,Ana Alves,68,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,82.99,1.75,27.15,250.0
+719,2025-10-17 18:15,Eduardo Vieira,24,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,63.72,1.83,19.07,250.0
+720,2026-03-11 18:00,Ricardo Mendes,32,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Faltou,71.63,1.92,19.38,250.0
+721,2025-07-28 12:00,Marcos Almeida,47,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,98.1,1.63,37.15,150.0
+722,2025-08-18 13:00,Zelia Alves,37,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Cancelada,79.09,1.69,27.67,150.0
+723,2025-05-08 11:15,Vitoria Gomes,20,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Faltou,89.86,1.51,39.37,250.0
+724,2026-04-24 13:30,Quintino Souza,46,Feminino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,126.9,1.86,36.78,0.0
+725,2026-02-02 17:45,Gabriel Nunes,44,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,121.62,1.64,45.17,250.0
+726,2025-02-03 10:00,José Santos,35,Masculino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,121.75,1.52,52.45,250.0
+727,2025-07-25 09:45,Pedro Mendes,66,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Faltou,81.01,1.69,28.28,0.0
+728,2025-02-21 13:00,Antônio Soares,37,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,107.61,1.82,32.45,250.0
+729,2026-03-07 11:15,Larissa Soares,32,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,89.85,1.61,34.69,0.0
+730,2025-01-31 10:30,Beatriz Carvalho,48,Masculino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,80.17,1.71,27.37,0.0
+731,2025-05-30 13:00,Marcos Vieira,58,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,94.18,1.65,34.4,250.0
+732,2025-11-24 11:00,Vitoria Alves,58,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,92.6,1.81,28.22,150.0
+733,2025-10-17 13:30,João Costa,26,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,110.13,1.91,30.06,0.0
+734,2025-12-21 11:45,Letícia Alves,31,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,91.3,1.68,32.34,150.0
+735,2025-01-04 13:00,Eduardo Ribeiro,17,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,95.64,1.78,30.05,250.0
+736,2025-07-04 08:00,Nicolas Alves,34,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,62.3,1.88,17.6,250.0
+737,2025-04-11 08:15,Rafael Souza,17,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,65.25,1.92,17.68,0.0
+738,2025-05-03 13:30,Lucas Soares,67,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,82.19,1.9,22.83,150.0
+739,2025-04-08 11:45,Ximena Costa,54,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Faltou,66.62,1.78,21.09,150.0
+740,2025-10-02 12:15,Victor Pereira,19,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,89.23,1.83,26.72,250.0
+741,2026-02-09 18:00,Lucas Soares,40,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,68.69,1.64,25.39,0.0
+742,2025-12-22 15:45,Francisco Lima,53,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,60.15,1.6,23.53,150.0
+743,2026-03-18 11:45,Olivia Gomes,43,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,64.7,1.75,21.18,150.0
+744,2025-02-13 12:45,Marcos Ribeiro,30,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,71.63,1.7,24.7,0.0
+745,2025-07-08 15:30,Sofia Martins,17,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Cancelada,91.55,1.53,38.9,0.0
+746,2025-05-31 16:00,Sofia Pereira,22,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,59.83,1.59,23.66,250.0
+747,2025-06-18 12:30,Sofia Alves,61,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,64.09,1.85,18.8,150.0
+748,2025-06-27 14:45,Beatriz Nunes,16,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Faltou,61.35,1.68,21.76,150.0
+749,2026-01-19 11:45,Pedro Soares,53,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Faltou,92.29,1.54,38.98,150.0
+750,2025-08-08 14:15,José Almeida,70,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,60.34,1.92,16.29,0.0
+751,2026-02-19 18:30,Vitoria Pereira,42,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,78.38,1.76,25.18,150.0
+752,2025-01-17 10:15,Vitoria Vieira,56,Masculino,Retorno,Hipertrofia,Dr. Felipe Barros,Realizada,66.59,1.74,21.98,0.0
+753,2025-02-25 13:45,Larissa Gomes,21,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,80.17,1.87,22.88,250.0
+754,2025-01-14 10:15,Eduardo Martins,34,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,75.93,1.53,32.61,250.0
+755,2025-03-29 13:45,Zelia Ferreira,23,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,97.75,1.53,41.71,150.0
+756,2026-03-20 11:15,Olivia Gomes,43,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,85.84,1.59,33.9,250.0
+757,2025-08-23 12:15,Ana Rodrigues,44,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,78.46,1.65,28.89,0.0
+758,2025-09-09 15:45,Amanda Santos,63,Feminino,Retorno,Gestação,Dr. Felipe Barros,Realizada,85.58,1.82,25.98,0.0
+759,2025-06-02 14:15,João Pereira,27,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Cancelada,69.68,1.76,22.6,0.0
+760,2026-04-30 08:15,Lucas Lima,72,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,116.9,1.69,41.17,150.0
+761,2025-03-04 13:00,Gabriel Soares,65,Masculino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,52.23,1.59,20.57,0.0
+762,2025-01-14 09:45,Yuri Costa,63,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,85.45,1.61,32.85,250.0
+763,2025-03-11 13:45,Paulo Almeida,20,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Cancelada,57.01,1.93,15.35,150.0
+764,2026-02-25 12:15,Lucas Silva,54,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,58.42,1.83,17.38,250.0
+765,2025-12-10 08:30,Juliana Almeida,38,Feminino,Primeira Consulta,Gestação,Dra. Laura Mendes,Cancelada,72.1,1.74,23.83,250.0
+766,2025-01-25 18:00,Yuri Rocha,35,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,88.36,1.85,25.88,250.0
+767,2026-04-21 11:30,Quintino Alves,21,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,112.4,1.87,32.17,0.0
+768,2025-02-02 11:00,Lucas Dias,26,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,78.1,1.65,28.78,0.0
+769,2025-04-08 17:15,Ricardo Martins,43,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,60.52,1.65,22.35,250.0
+770,2025-12-01 13:00,Yuri Alves,45,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Cancelada,52.2,1.78,16.46,250.0
+771,2026-03-30 11:45,Ursula Mendes,47,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,79.99,1.93,21.44,150.0
+772,2025-11-20 14:15,Vitoria Ferreira,56,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,95.61,1.51,42.04,150.0
+773,2025-08-18 14:15,Luiz Vieira,61,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,98.57,1.61,38.2,250.0
+774,2025-05-05 17:00,Daniela Rodrigues,39,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,61.33,1.59,24.2,0.0
+775,2026-04-18 17:45,Vitoria Rodrigues,33,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Cancelada,116.28,1.87,33.41,150.0
+776,2025-04-28 13:30,Quintino Alves,50,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,78.25,1.89,21.84,150.0
+777,2025-04-04 15:00,Eduardo Lopes,20,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,58.68,1.56,24.22,250.0
+778,2025-10-09 11:15,Luiz Oliveira,43,Masculino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,81.2,1.69,28.4,0.0
+779,2025-06-05 12:45,Larissa Alves,33,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Felipe Barros,Realizada,72.07,1.58,29.03,250.0
+780,2025-09-16 17:45,Juliana Lopes,17,Masculino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,105.41,1.74,34.75,0.0
+781,2025-03-31 12:45,Antônio Gomes,45,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,85.74,1.65,31.5,0.0
+782,2025-04-11 10:15,Ana Silva,71,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,68.66,1.94,18.3,0.0
+783,2025-09-08 12:00,João Santos,74,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,97.85,1.84,28.8,0.0
+784,2026-01-30 13:45,Larissa Rocha,39,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,73.89,1.61,28.47,150.0
+785,2026-04-17 13:00,Juliana Lima,54,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,93.31,1.77,29.75,150.0
+786,2026-03-07 10:00,Helena Oliveira,57,Masculino,Retorno,Gestação,Dra. Laura Mendes,Realizada,93.8,1.91,25.73,0.0
+787,2025-03-26 14:30,Ursula Soares,50,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Faltou,86.38,1.89,24.07,150.0
+788,2025-02-15 09:30,Juliana Lima,63,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,90.82,1.94,24.03,150.0
+789,2025-01-01 09:00,João Soares,42,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,85.2,1.67,30.6,150.0
+790,2025-04-12 15:15,Luiz Souza,44,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Cancelada,86.57,1.58,34.58,250.0
+791,2025-05-13 14:45,Larissa Mendes,22,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,53.21,1.56,21.98,250.0
+792,2025-01-16 17:15,Francisco Lopes,59,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Faltou,111.59,1.93,29.96,250.0
+793,2026-02-09 08:00,Olivia Soares,66,Feminino,Retorno,Doenças Crônicas,Dra. Camila Assis,Realizada,66.85,1.71,22.78,0.0
+794,2025-08-08 13:30,Vitoria Costa,68,Feminino,Retorno,Gestação,Dr. Felipe Barros,Realizada,98.77,1.77,31.35,0.0
+795,2026-03-24 13:00,Ana Almeida,71,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,78.57,1.56,32.48,150.0
+796,2026-05-02 11:30,José Mendes,59,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,97.88,1.94,25.91,150.0
+797,2026-02-21 13:00,Larissa Ribeiro,71,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,70.01,1.77,22.27,150.0
+798,2025-11-10 09:30,Maria Lopes,58,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,57.16,1.59,22.67,150.0
+799,2025-09-24 17:00,Igor Lopes,66,Feminino,Retorno,Gestação,Dr. Felipe Barros,Realizada,97.75,1.9,26.98,0.0
+800,2025-09-04 18:15,Quintino Alves,26,Feminino,Primeira Consulta,Nutrição Esportiva,Dra. Laura Mendes,Realizada,66.33,1.92,18.03,250.0
+801,2025-07-16 12:15,Rafael Barbosa,46,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,71.65,1.86,20.75,150.0
+802,2025-04-25 17:00,Vitoria Martins,74,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Faltou,62.95,1.61,24.44,150.0
+803,2025-05-29 09:00,Fernanda Costa,63,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,127.47,1.88,35.91,150.0
+804,2025-10-23 08:30,Daniela Vieira,50,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Faltou,83.97,1.66,30.31,0.0
+805,2026-02-12 10:15,Gabriel Martins,16,Masculino,Retorno,Hipertrofia,Dra. Camila Assis,Faltou,83.8,1.6,32.8,0.0
+806,2025-03-17 17:30,Juliana Dias,58,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Realizada,56.17,1.95,14.84,150.0
+807,2026-03-11 17:45,Larissa Alves,47,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Faltou,91.39,1.65,33.57,150.0
+808,2025-04-18 11:00,Mariana Lopes,62,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,66.87,1.75,21.92,0.0
+809,2025-12-14 15:30,Zelia Martins,20,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Cancelada,69.69,1.89,19.61,0.0
+810,2025-03-09 13:00,Ursula Almeida,57,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Cancelada,91.4,1.72,31.0,150.0
+811,2025-04-18 11:15,Ana Ribeiro,62,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,65.89,1.81,20.21,150.0
+812,2025-01-29 09:30,Francisco Ferreira,19,Feminino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,57.43,1.7,19.98,150.0
+813,2026-01-05 14:15,Carlos Souza,31,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,88.79,1.84,26.36,0.0
+814,2026-02-12 18:00,Antônio Nunes,40,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,55.83,1.51,24.64,150.0
+815,2025-03-04 15:15,Bruno Vieira,52,Masculino,Retorno,Gestação,Dra. Laura Mendes,Faltou,69.2,1.77,22.17,0.0
+816,2025-11-27 14:30,Amanda Rodrigues,22,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,50.99,1.87,14.65,250.0
+817,2025-10-12 16:45,Eduardo Soares,69,Feminino,Primeira Consulta,Gestação,Dra. Laura Mendes,Realizada,84.76,1.89,23.78,250.0
+818,2025-01-03 16:45,Victor Souza,18,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,89.8,1.75,29.22,150.0
+819,2025-01-18 09:00,Luiz Gomes,39,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,97.31,1.64,36.39,0.0
+820,2025-09-23 12:45,Igor Vieira,47,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,90.99,1.54,38.14,150.0
+821,2025-05-02 08:15,Juliana Gomes,70,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,56.42,1.66,20.44,250.0
+822,2025-11-15 14:00,Roberto Lima,32,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,68.9,1.54,29.15,150.0
+823,2025-08-06 10:15,Eduardo Nunes,62,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Cancelada,82.87,1.67,29.8,150.0
+824,2026-02-25 16:15,João Rodrigues,36,Masculino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Realizada,104.23,1.62,39.64,0.0
+825,2025-12-17 16:45,Eduardo Costa,56,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,61.29,1.89,17.14,0.0
+826,2025-01-06 09:45,Pedro Martins,22,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Realizada,74.48,1.87,21.31,250.0
+827,2025-09-28 13:30,Roberto Lima,54,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,72.08,1.68,25.68,250.0
+828,2026-01-15 18:45,Francisco Vieira,24,Masculino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Cancelada,68.94,1.56,28.44,250.0
+829,2026-01-12 12:00,Larissa Ribeiro,61,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Cancelada,71.95,1.71,24.72,150.0
+830,2025-07-01 15:30,Sofia Carvalho,49,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,65.64,1.68,23.17,0.0
+831,2025-02-16 18:00,Eduardo Dias,31,Feminino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,77.71,1.83,23.09,250.0
+832,2025-09-10 08:45,Luiz Dias,24,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,59.51,1.51,26.23,0.0
+833,2026-03-02 08:45,Ricardo Dias,38,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Realizada,58.43,1.7,20.17,150.0
+834,2026-04-22 16:15,Mariana Oliveira,39,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Laura Mendes,Realizada,58.52,1.72,19.71,150.0
+835,2026-05-12 09:30,Quintino Fernandes,70,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,50.11,1.62,19.11,0.0
+836,2025-11-20 17:45,Olivia Gomes,75,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,80.78,1.66,29.31,0.0
+837,2025-06-18 12:30,Gabriel Silva,38,Feminino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,59.88,1.69,20.87,0.0
+838,2025-09-28 16:15,João Souza,74,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,73.1,1.71,24.95,250.0
+839,2025-07-06 14:15,Ricardo Lima,22,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,71.7,1.66,26.04,150.0
+840,2025-07-03 11:00,Nicolas Gomes,18,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,59.95,1.57,24.26,0.0
+841,2025-09-03 18:30,Helena Carvalho,47,Masculino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,89.02,1.84,26.35,150.0
+842,2025-07-24 16:45,Igor Souza,22,Feminino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Realizada,83.96,1.51,37.01,250.0
+843,2025-01-27 18:30,Maria Mendes,63,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,88.04,1.72,29.81,0.0
+844,2025-05-07 17:15,Luiz Ferreira,31,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,59.92,1.87,17.15,250.0
+845,2025-12-28 09:15,Nicolas Vieira,56,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,129.47,1.52,56.24,250.0
+846,2026-04-21 10:45,Bruno Mendes,28,Feminino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Realizada,81.67,1.64,30.44,250.0
+847,2025-04-29 11:30,Maria Lopes,19,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,90.43,1.62,34.41,150.0
+848,2025-06-29 14:15,Victor Santos,27,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,90.41,1.63,34.1,250.0
+849,2025-11-07 09:45,Mariana Lima,47,Masculino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,84.15,1.8,25.94,0.0
+850,2026-01-30 10:30,Ximena Dias,67,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,60.5,1.79,18.83,150.0
+851,2025-07-16 09:00,Igor Nunes,63,Feminino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,96.28,1.82,29.16,250.0
+852,2025-02-08 16:30,Ursula Dias,46,Feminino,Acompanhamento Mensal,Gestação,Dr. Rodrigo Castro,Realizada,70.91,1.56,29.23,150.0
+853,2025-12-31 12:30,Ximena Almeida,56,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,127.38,1.74,42.28,0.0
+854,2026-02-09 08:15,Camila Lima,60,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Faltou,85.46,1.94,22.76,0.0
+855,2026-02-22 14:45,Ricardo Soares,20,Feminino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,70.04,1.85,20.45,0.0
+856,2025-05-20 11:15,Ana Ferreira,52,Feminino,Acompanhamento Mensal,Gestação,Dra. Laura Mendes,Faltou,75.19,1.73,25.1,150.0
+857,2026-01-04 16:30,Ursula Pereira,34,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,88.1,1.52,38.11,150.0
+858,2025-01-21 18:15,Sofia Rodrigues,33,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,82.7,1.55,34.32,150.0
+859,2025-11-20 17:30,Victor Oliveira,61,Masculino,Acompanhamento Mensal,Hipertrofia,Dr. Felipe Barros,Realizada,94.48,1.63,35.44,150.0
+860,2025-11-17 08:30,Pedro Dias,33,Feminino,Retorno,Emagrecimento,Dra. Laura Mendes,Cancelada,96.01,1.84,28.49,0.0
+861,2025-12-01 12:15,José Pereira,36,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,86.49,1.7,29.9,250.0
+862,2025-08-11 13:15,Francisco Oliveira,47,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Realizada,93.02,1.76,30.15,0.0
+863,2025-04-03 18:30,Bruno Gomes,26,Feminino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,71.32,1.56,29.13,0.0
+864,2025-08-21 18:45,Gabriel Dias,49,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,81.05,1.67,28.97,150.0
+865,2025-01-07 18:00,Igor Pereira,65,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Faltou,93.52,1.93,24.98,0.0
+866,2025-02-24 16:30,Fernanda Alves,24,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,57.73,1.65,21.22,150.0
+867,2025-01-29 16:30,Larissa Fernandes,23,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,121.01,1.73,40.42,250.0
+868,2025-03-14 08:15,Bruno Pereira,43,Masculino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Realizada,84.22,1.91,22.97,250.0
+869,2025-12-18 09:45,Lucas Souza,30,Feminino,Retorno,Reeducação Alimentar,Dra. Laura Mendes,Realizada,68.02,1.65,24.98,0.0
+870,2026-04-19 09:00,Camila Rodrigues,27,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,94.66,1.69,33.09,150.0
+871,2025-12-18 12:30,Wagner Souza,33,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dra. Camila Assis,Faltou,89.93,1.91,24.7,150.0
+872,2026-02-08 08:15,Juliana Costa,25,Masculino,Retorno,Gestação,Dr. Felipe Barros,Faltou,78.89,1.53,33.69,0.0
+873,2026-05-07 12:15,Fernanda Costa,24,Feminino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Realizada,84.67,1.69,29.62,0.0
+874,2025-07-31 17:30,Igor Nunes,74,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,76.62,1.74,25.3,0.0
+875,2026-02-25 11:45,Fernanda Vieira,61,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Cancelada,68.09,1.54,28.74,150.0
+876,2025-04-15 08:30,Roberto Lopes,24,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Camila Assis,Faltou,88.93,1.88,25.1,250.0
+877,2025-03-13 12:45,Juliana Fernandes,75,Masculino,Primeira Consulta,Hipertrofia,Dr. Rodrigo Castro,Realizada,64.1,1.84,19.01,250.0
+878,2025-12-23 10:45,Bruno Rocha,43,Masculino,Primeira Consulta,Gestação,Dra. Laura Mendes,Cancelada,73.84,1.76,23.79,250.0
+879,2025-11-01 10:00,Juliana Ribeiro,25,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,97.91,1.87,27.88,250.0
+880,2026-01-27 10:45,Igor Dias,49,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,84.76,1.85,24.72,0.0
+881,2025-05-27 09:15,Daniela Nunes,18,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,83.8,1.87,23.84,150.0
+882,2026-03-25 15:30,Amanda Soares,35,Feminino,Retorno,Hipertrofia,Dra. Camila Assis,Realizada,94.23,1.73,31.31,0.0
+883,2025-03-06 11:45,Letícia Santos,30,Masculino,Primeira Consulta,Gestação,Dra. Laura Mendes,Faltou,73.87,1.81,22.51,250.0
+884,2025-12-01 18:45,Yuri Ferreira,19,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,53.89,1.55,22.47,150.0
+885,2025-11-05 13:00,Quintino Gomes,26,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Faltou,66.57,1.91,18.26,250.0
+886,2025-04-14 18:00,Quintino Lima,21,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Realizada,97.18,1.64,36.06,150.0
+887,2025-01-05 13:30,Zelia Soares,28,Masculino,Retorno,Gestação,Dra. Camila Assis,Realizada,54.87,1.82,16.63,0.0
+888,2025-07-28 16:00,Luiz Rodrigues,17,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,84.12,1.57,34.02,0.0
+889,2025-02-10 18:00,Pedro Alves,67,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,71.87,1.85,20.92,150.0
+890,2025-07-04 17:45,Carlos Rocha,65,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,94.8,1.76,30.78,250.0
+891,2025-02-19 08:15,Ursula Fernandes,71,Feminino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,91.26,1.58,36.72,0.0
+892,2025-02-04 12:30,Wagner Oliveira,20,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Camila Assis,Realizada,88.16,1.94,23.42,150.0
+893,2025-08-15 18:15,Helena Vieira,47,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,95.86,1.89,26.96,0.0
+894,2025-03-08 15:30,Luiz Mendes,36,Masculino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,93.87,1.7,32.38,250.0
+895,2025-12-16 08:00,Quintino Rocha,68,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Realizada,96.96,1.57,39.28,250.0
+896,2025-02-07 11:45,Antônio Barbosa,21,Masculino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,86.59,1.54,36.58,0.0
+897,2026-04-15 14:45,Nicolas Martins,37,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,73.81,1.82,22.38,0.0
+898,2025-05-23 15:00,Ricardo Rodrigues,46,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Camila Assis,Realizada,81.04,1.51,35.35,150.0
+899,2025-07-14 08:30,Maria Lopes,29,Feminino,Primeira Consulta,Emagrecimento,Dr. Felipe Barros,Realizada,84.69,1.61,32.53,250.0
+900,2025-03-14 09:30,Zelia Oliveira,35,Masculino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Cancelada,59.2,1.9,16.37,0.0
+901,2025-01-28 09:45,Vitoria Gomes,26,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,89.19,1.74,29.43,0.0
+902,2026-05-10 14:30,Amanda Martins,68,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,78.92,1.83,23.69,150.0
+903,2025-03-16 13:30,Ana Rodrigues,73,Masculino,Primeira Consulta,Nutrição Esportiva,Dra. Camila Assis,Realizada,83.7,1.86,24.29,250.0
+904,2025-05-15 16:00,José Rodrigues,56,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,98.95,1.6,38.73,150.0
+905,2025-08-04 16:15,Camila Martins,29,Masculino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,60.57,1.87,17.39,250.0
+906,2026-04-05 12:00,Paulo Nunes,45,Masculino,Retorno,Reeducação Alimentar,Dra. Camila Assis,Faltou,76.16,1.74,25.04,0.0
+907,2026-01-27 13:00,Mariana Almeida,43,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,64.25,1.7,22.33,250.0
+908,2025-12-04 18:45,Larissa Gomes,60,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Cancelada,126.29,1.51,55.58,250.0
+909,2025-02-23 15:00,Larissa Almeida,48,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,72.73,1.6,28.4,150.0
+910,2025-07-15 09:15,Francisco Souza,38,Masculino,Retorno,Gestação,Dr. Felipe Barros,Realizada,89.11,1.92,24.1,0.0
+911,2025-09-17 12:30,Rafael Gomes,69,Masculino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,60.92,1.51,26.55,150.0
+912,2026-02-09 13:30,Vitoria Ferreira,52,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,69.67,1.78,22.05,250.0
+913,2025-01-27 17:45,Igor Nunes,40,Feminino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,85.5,1.6,33.24,0.0
+914,2025-03-06 16:00,Larissa Vieira,66,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,54.66,1.59,21.58,150.0
+915,2025-08-12 08:15,Bruno Mendes,61,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dra. Laura Mendes,Cancelada,99.17,1.83,29.6,150.0
+916,2025-11-21 18:30,Mariana Pereira,57,Feminino,Retorno,Hipertrofia,Dr. Rodrigo Castro,Cancelada,87.51,1.85,25.54,0.0
+917,2026-01-30 12:00,Sofia Oliveira,75,Feminino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,107.77,1.71,37.0,150.0
+918,2025-02-24 10:30,Rafael Ferreira,21,Feminino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,89.77,1.55,37.59,0.0
+919,2025-07-31 09:45,Larissa Oliveira,29,Masculino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Faltou,64.94,1.57,26.26,0.0
+920,2026-04-08 10:00,Helena Costa,38,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,62.73,1.73,20.84,150.0
+921,2025-03-04 11:00,Ricardo Silva,49,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Realizada,56.93,1.51,24.86,250.0
+922,2025-02-12 10:30,Sofia Lopes,28,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,74.79,1.84,22.2,0.0
+923,2025-09-20 14:15,Rafael Ferreira,28,Masculino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,127.46,1.86,36.95,0.0
+924,2025-09-07 14:45,Maria Mendes,63,Masculino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Realizada,59.99,1.67,21.45,0.0
+925,2025-06-30 13:00,José Ferreira,72,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,93.86,1.77,29.9,150.0
+926,2026-05-02 16:30,Zelia Silva,23,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,60.76,1.61,23.43,0.0
+927,2025-07-10 13:15,Victor Souza,16,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,118.74,1.71,40.63,150.0
+928,2026-04-06 11:00,Yuri Gomes,54,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,81.28,1.63,30.77,150.0
+929,2026-03-29 18:00,Amanda Nunes,42,Masculino,Retorno,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,74.7,1.52,32.23,0.0
+930,2025-01-24 12:45,Helena Souza,44,Feminino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Felipe Barros,Realizada,64.25,1.76,20.76,150.0
+931,2025-11-26 17:00,Antônio Gomes,24,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,53.47,1.79,16.69,250.0
+932,2025-02-18 14:30,Sofia Costa,64,Masculino,Retorno,Emagrecimento,Dra. Camila Assis,Realizada,96.63,1.78,30.65,0.0
+933,2025-12-23 15:45,Helena Ribeiro,55,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Faltou,63.68,1.5,28.13,250.0
+934,2025-06-15 14:15,Lucas Oliveira,28,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,77.37,1.9,21.49,150.0
+935,2025-01-25 12:00,Rafael Costa,60,Masculino,Retorno,Gestação,Dr. Rodrigo Castro,Realizada,56.0,1.76,18.02,0.0
+936,2025-06-13 10:45,Larissa Almeida,58,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,74.51,1.72,25.33,150.0
+937,2025-05-24 13:45,Pedro Oliveira,32,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Realizada,88.33,1.88,25.1,150.0
+938,2025-11-28 11:00,Eduardo Lopes,19,Feminino,Primeira Consulta,Gestação,Dr. Rodrigo Castro,Realizada,59.4,1.87,17.02,250.0
+939,2025-02-23 13:15,Beatriz Soares,48,Masculino,Retorno,Gestação,Dr. Felipe Barros,Cancelada,75.23,1.57,30.55,0.0
+940,2026-04-14 10:15,Ximena Martins,44,Feminino,Retorno,Hipertrofia,Dra. Laura Mendes,Realizada,84.02,1.69,29.4,0.0
+941,2026-05-03 17:00,Juliana Almeida,72,Feminino,Acompanhamento Mensal,Emagrecimento,Dr. Rodrigo Castro,Realizada,85.29,1.9,23.57,150.0
+942,2025-01-15 15:45,Wagner Lima,23,Feminino,Retorno,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,71.54,1.68,25.39,0.0
+943,2025-06-20 08:45,Sofia Ribeiro,22,Feminino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Felipe Barros,Realizada,70.13,1.63,26.32,150.0
+944,2025-11-01 12:45,Marcos Carvalho,22,Feminino,Acompanhamento Mensal,Hipertrofia,Dra. Laura Mendes,Realizada,91.33,1.55,37.92,150.0
+945,2025-10-22 12:15,Eduardo Fernandes,22,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,60.99,1.68,21.69,250.0
+946,2026-02-26 12:45,Olivia Ferreira,66,Feminino,Retorno,Gestação,Dra. Camila Assis,Cancelada,86.69,1.77,27.72,0.0
+947,2025-02-18 10:45,Ursula Rocha,31,Feminino,Retorno,Gestação,Dra. Laura Mendes,Realizada,94.99,1.58,37.85,0.0
+948,2025-03-14 08:45,Maria Costa,17,Feminino,Retorno,Emagrecimento,Dr. Rodrigo Castro,Cancelada,75.54,1.84,22.26,0.0
+949,2025-06-30 15:00,Paulo Pereira,46,Feminino,Primeira Consulta,Emagrecimento,Dra. Camila Assis,Faltou,102.67,1.6,39.97,250.0
+950,2026-01-22 10:00,Gabriel Gomes,67,Masculino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,74.32,1.62,28.47,0.0
+951,2025-07-06 15:00,Wagner Gomes,61,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,75.97,1.62,28.89,150.0
+952,2025-11-24 08:15,João Pereira,58,Feminino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,84.79,1.76,27.38,0.0
+953,2025-08-09 13:15,Fernanda Alves,74,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Camila Assis,Cancelada,124.46,1.81,38.18,150.0
+954,2025-08-19 16:15,Rafael Barbosa,38,Masculino,Retorno,Doenças Crônicas,Dr. Felipe Barros,Realizada,52.05,1.64,19.37,0.0
+955,2025-09-24 13:00,Maria Almeida,52,Masculino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,83.09,1.92,22.6,0.0
+956,2025-12-15 10:30,Letícia Fernandes,58,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,50.78,1.86,14.68,0.0
+957,2025-01-21 11:30,Beatriz Souza,19,Masculino,Retorno,Emagrecimento,Dr. Felipe Barros,Realizada,75.04,1.8,23.23,0.0
+958,2025-05-09 10:30,Tiago Soares,58,Feminino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,59.84,1.95,15.77,250.0
+959,2025-10-27 09:30,Pedro Santos,46,Masculino,Primeira Consulta,Gestação,Dr. Felipe Barros,Realizada,95.21,1.68,33.75,250.0
+960,2026-04-03 12:30,Camila Gomes,27,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Cancelada,62.5,1.85,18.35,150.0
+961,2025-08-02 16:15,Ursula Gomes,21,Masculino,Acompanhamento Mensal,Gestação,Dr. Felipe Barros,Realizada,89.12,1.58,35.59,150.0
+962,2026-03-03 14:00,Igor Soares,44,Masculino,Acompanhamento Mensal,Gestação,Dra. Camila Assis,Realizada,73.33,1.66,26.63,150.0
+963,2026-05-08 14:45,Bruno Fernandes,17,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,77.93,1.61,30.09,250.0
+964,2025-03-07 17:30,Daniela Martins,24,Masculino,Acompanhamento Mensal,Emagrecimento,Dr. Felipe Barros,Faltou,103.49,1.84,30.46,150.0
+965,2026-03-06 08:00,Daniela Lima,69,Feminino,Retorno,Doenças Crônicas,Dra. Laura Mendes,Faltou,74.07,1.63,27.85,0.0
+966,2025-06-19 08:00,Beatriz Barbosa,48,Feminino,Acompanhamento Mensal,Hipertrofia,Dr. Rodrigo Castro,Realizada,77.34,1.83,23.01,150.0
+967,2025-04-25 18:15,Ursula Nunes,35,Feminino,Retorno,Doenças Crônicas,Dr. Rodrigo Castro,Realizada,57.65,1.53,24.62,0.0
+968,2026-03-27 09:00,Quintino Alves,22,Masculino,Primeira Consulta,Doenças Crônicas,Dr. Felipe Barros,Realizada,56.09,1.53,24.12,250.0
+969,2025-07-27 15:15,Quintino Fernandes,32,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,51.08,1.57,20.84,150.0
+970,2025-03-14 18:15,Lucas Soares,63,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,97.95,1.8,30.22,0.0
+971,2025-09-10 13:30,Zelia Martins,60,Feminino,Retorno,Nutrição Esportiva,Dr. Felipe Barros,Realizada,72.85,1.51,31.84,0.0
+972,2025-10-16 14:00,Beatriz Gomes,18,Masculino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,72.92,1.9,20.26,250.0
+973,2025-01-05 10:30,Luiz Soares,29,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,82.8,1.53,35.45,150.0
+974,2025-06-30 18:30,Antônio Rocha,70,Feminino,Retorno,Gestação,Dra. Camila Assis,Realizada,91.97,1.53,39.25,0.0
+975,2025-09-05 14:45,Camila Barbosa,27,Masculino,Primeira Consulta,Gestação,Dra. Camila Assis,Realizada,67.4,1.93,18.1,250.0
+976,2025-11-13 14:00,Carlos Silva,70,Feminino,Primeira Consulta,Emagrecimento,Dra. Laura Mendes,Realizada,101.2,1.92,27.44,250.0
+977,2026-01-25 11:15,Gabriel Ferreira,62,Masculino,Retorno,Emagrecimento,Dra. Laura Mendes,Realizada,77.06,1.61,29.63,0.0
+978,2026-01-19 09:45,Ximena Mendes,56,Feminino,Primeira Consulta,Reeducação Alimentar,Dra. Laura Mendes,Cancelada,56.66,1.7,19.55,250.0
+979,2025-11-23 17:15,Nicolas Lima,47,Masculino,Acompanhamento Mensal,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,71.7,1.83,21.32,150.0
+980,2025-09-28 11:00,Beatriz Silva,56,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,97.44,1.66,35.28,250.0
+981,2025-10-07 09:30,Mariana Barbosa,62,Masculino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Realizada,81.65,1.66,29.68,250.0
+982,2025-10-14 10:00,José Carvalho,56,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Laura Mendes,Realizada,64.91,1.85,18.92,250.0
+983,2025-03-02 15:15,Daniela Mendes,50,Masculino,Primeira Consulta,Hipertrofia,Dra. Camila Assis,Faltou,84.61,1.61,32.52,250.0
+984,2025-02-04 10:30,Eduardo Fernandes,52,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Camila Assis,Realizada,77.3,1.78,24.44,150.0
+985,2026-04-02 09:45,Rafael Nunes,17,Feminino,Retorno,Nutrição Esportiva,Dra. Camila Assis,Realizada,88.24,1.65,32.39,0.0
+986,2025-03-13 11:30,Daniela Pereira,47,Feminino,Acompanhamento Mensal,Doenças Crônicas,Dra. Laura Mendes,Realizada,97.5,1.94,25.87,150.0
+987,2025-11-03 17:00,Roberto Lopes,24,Masculino,Acompanhamento Mensal,Emagrecimento,Dra. Laura Mendes,Realizada,87.39,1.72,29.42,150.0
+988,2025-06-29 14:45,Ursula Pereira,17,Feminino,Primeira Consulta,Hipertrofia,Dr. Felipe Barros,Cancelada,60.63,1.81,18.56,250.0
+989,2025-09-04 08:45,Yuri Rocha,24,Masculino,Acompanhamento Mensal,Nutrição Esportiva,Dr. Rodrigo Castro,Realizada,94.86,1.7,32.94,150.0
+990,2026-04-08 13:30,Nicolas Costa,43,Feminino,Primeira Consulta,Hipertrofia,Dra. Laura Mendes,Realizada,74.46,1.5,32.89,250.0
+991,2026-01-21 16:00,Ana Dias,31,Feminino,Primeira Consulta,Emagrecimento,Dr. Rodrigo Castro,Realizada,77.4,1.58,30.96,250.0
+992,2025-06-29 17:15,Tiago Rodrigues,54,Masculino,Retorno,Gestação,Dra. Laura Mendes,Cancelada,62.51,1.53,26.54,0.0
+993,2025-10-06 11:45,Wagner Pereira,44,Masculino,Retorno,Doenças Crônicas,Dra. Camila Assis,Faltou,76.34,1.79,23.72,0.0
+994,2025-05-17 13:00,Daniela Ribeiro,73,Masculino,Acompanhamento Mensal,Doenças Crônicas,Dr. Felipe Barros,Realizada,95.6,1.54,40.56,150.0
+995,2026-03-07 16:15,Ursula Dias,51,Feminino,Primeira Consulta,Reeducação Alimentar,Dr. Rodrigo Castro,Realizada,84.92,1.94,22.56,250.0
+996,2025-11-29 15:00,Bruno Lopes,69,Feminino,Retorno,Reeducação Alimentar,Dr. Felipe Barros,Realizada,54.22,1.87,15.47,0.0
+997,2025-05-23 17:45,Paulo Silva,71,Masculino,Retorno,Nutrição Esportiva,Dra. Laura Mendes,Realizada,59.22,1.59,23.35,0.0
+998,2025-08-09 16:00,Ursula Santos,50,Masculino,Primeira Consulta,Doenças Crônicas,Dra. Camila Assis,Faltou,90.51,1.91,24.85,250.0
+999,2025-10-30 11:00,Vitoria Dias,69,Masculino,Retorno,Gestação,Dra. Laura Mendes,Faltou,69.41,1.55,28.92,0.0
+1000,2026-01-05 18:30,Ricardo Almeida,43,Masculino,Primeira Consulta,Nutrição Esportiva,Dr. Felipe Barros,Cancelada,61.91,1.95,16.34,250.0
